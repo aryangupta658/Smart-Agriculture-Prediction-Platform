@@ -4,6 +4,6 @@ python-multipart
 numpy
 pandas
 scikit-learn
-tensorflow
+tensorflow-cpu
 pillow
 pydantic
