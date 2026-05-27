@@ -1,0 +1,165 @@
+@import "tailwindcss";
+
+/* ==============================
+   Custom Theme Values
+   ============================== */
+
+@theme {
+  --color-agriGreen: #07943f;
+  --color-darkGreen: #064e3b;
+  --color-lightGreen: #ecfdf3;
+  --color-softGreen: #f6fff8;
+  --color-agriPurple: #6d4cc2;
+
+  --shadow-soft: 0 12px 35px rgba(15, 23, 42, 0.08);
+}
+
+/* ==============================
+   Global CSS Reset
+   ============================== */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: #fbfdfb;
+  color: #0f172a;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+input,
+select,
+textarea,
+button {
+  font-family: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+::selection {
+  background: #bbf7d0;
+  color: #064e3b;
+}
+
+/* ==============================
+   Custom Utility Classes
+   These make sure our custom names work
+   ============================== */
+
+@layer utilities {
+  .bg-agriGreen {
+    background-color: #07943f;
+  }
+
+  .text-agriGreen {
+    color: #07943f;
+  }
+
+  .border-agriGreen {
+    border-color: #07943f;
+  }
+
+  .bg-darkGreen {
+    background-color: #064e3b;
+  }
+
+  .text-darkGreen {
+    color: #064e3b;
+  }
+
+  .border-darkGreen {
+    border-color: #064e3b;
+  }
+
+  .bg-lightGreen {
+    background-color: #ecfdf3;
+  }
+
+  .text-lightGreen {
+    color: #ecfdf3;
+  }
+
+  .bg-softGreen {
+    background-color: #f6fff8;
+  }
+
+  .text-softGreen {
+    color: #f6fff8;
+  }
+
+  .bg-agriPurple {
+    background-color: #6d4cc2;
+  }
+
+  .text-agriPurple {
+    color: #6d4cc2;
+  }
+
+  .border-agriPurple {
+    border-color: #6d4cc2;
+  }
+
+  .shadow-soft {
+    box-shadow: 0 12px 35px rgba(15, 23, 42, 0.08);
+  }
+}
+
+/* ==============================
+   Better Form Look
+   ============================== */
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  opacity: 0.4;
+}
+
+input,
+select {
+  transition: all 0.2s ease;
+}
+
+/* ==============================
+   Smooth Page Feel
+   ============================== */
+
+.page-fade {
+  animation: pageFade 0.35s ease-in-out;
+}
+
+@keyframes pageFade {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ==============================
+   Responsive Helper
+   ============================== */
+
+@media (max-width: 640px) {
+  body {
+    font-size: 15px;
+  }
+}
