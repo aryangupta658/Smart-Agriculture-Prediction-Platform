@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+
 import {
   Sprout,
   FlaskConical,
@@ -13,36 +14,56 @@ import FeatureCard from "../components/FeatureCard";
 
 function Home() {
   const scrollToHowItWorks = () => {
-    document
-      .getElementById("how-it-works")
-      ?.scrollIntoView({ behavior: "smooth", block: "start" });
+    document.getElementById("how-it-works")?.scrollIntoView({
+      behavior: "smooth",
+      block: "start",
+    });
   };
 
   return (
     <main>
-      {/* ================= HERO SECTION ================= */}
+      {/* =====================================================
+          HERO SECTION
+      ===================================================== */}
+
       <section className="relative overflow-hidden">
+        {/* Background glow */}
+
         <div className="absolute left-0 top-40 h-72 w-72 rounded-full bg-green-100 blur-3xl" />
+
         <div className="absolute right-0 top-20 h-96 w-96 rounded-full bg-sky-100 blur-3xl" />
 
         <div className="relative mx-auto grid max-w-7xl items-center gap-12 px-5 py-14 lg:grid-cols-2 lg:px-8 lg:py-20">
-          {/* LEFT CONTENT */}
+          {/* =================================================
+              LEFT HERO CONTENT
+          ================================================= */}
+
           <div>
+            {/* Badge */}
+
             <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-green-50 px-5 py-2 text-sm font-bold text-agriGreen">
               <Sprout size={17} />
-              AI Powered Agriculture
+              ML Powered Agriculture
             </div>
 
+            {/* Main heading */}
+
             <h1 className="mb-6 text-4xl font-black leading-tight text-slate-950 sm:text-5xl lg:text-6xl">
-              Smart Decisions For <br />
+              Smart Decisions For
+              <br />
               Better <span className="text-agriGreen">Farming</span>
               <span className="ml-2 inline-block">🌿</span>
             </h1>
 
+            {/* Description */}
+
             <p className="mb-8 max-w-xl text-lg leading-8 text-slate-600">
-              Get AI-based recommendations for crops, fertilizers, biodegradable
-              alternatives, and plant disease detection with image analysis.
+              Get machine-learning-based recommendations for crops and
+              fertilizers, biodegradable alternatives, and plant disease
+              detection using deep learning image analysis.
             </p>
+
+            {/* Buttons */}
 
             <div className="flex flex-col gap-4 sm:flex-row">
               <Link
@@ -63,7 +84,10 @@ function Home() {
             </div>
           </div>
 
-          {/* RIGHT HERO IMAGE */}
+          {/* =================================================
+              RIGHT HERO IMAGE
+          ================================================= */}
+
           <div className="relative flex items-center justify-center">
             <div className="relative w-full max-w-[620px]">
               <img
@@ -76,8 +100,13 @@ function Home() {
         </div>
       </section>
 
-      {/* ================= FEATURES SECTION ================= */}
+      {/* =====================================================
+          FEATURES SECTION
+      ===================================================== */}
+
       <section className="mx-auto max-w-7xl px-5 py-14 lg:px-8">
+        {/* Heading */}
+
         <div className="mb-12 text-center">
           <p className="mb-2 text-sm font-extrabold uppercase tracking-widest text-agriGreen">
             Our Features
@@ -90,50 +119,64 @@ function Home() {
           <div className="mx-auto mt-4 h-1 w-12 rounded-full bg-agriGreen" />
         </div>
 
+        {/* Feature cards */}
+
         <div className="grid gap-8 md:grid-cols-3">
+          {/* Crop */}
+
           <FeatureCard
             icon={<Sprout size={34} />}
             title="Crop Recommendation"
-            description="Find the best crops to grow based on soil nutrients and environmental conditions."
+            description="Find suitable crops based on soil nutrients, temperature, humidity, pH, rainfall, and other agricultural conditions."
             path="/crop"
           />
+
+          {/* Fertilizer */}
 
           <FeatureCard
             icon={<FlaskConical size={34} />}
             title="Fertilizer Recommendation"
-            description="Get fertilizer suggestions along with eco-friendly biodegradable alternatives."
+            description="Get fertilizer recommendations along with eco-friendly biodegradable alternatives."
             path="/fertilizer"
             color="yellow"
           />
 
+          {/* Disease */}
+
           <FeatureCard
             icon={<SearchCheck size={34} />}
             title="Disease Detection"
-            description="Upload a leaf image and detect diseases instantly using AI-powered image analysis."
+            description="Upload a plant leaf image and identify disease using a trained deep learning image-classification model."
             path="/disease"
             color="purple"
           />
         </div>
       </section>
 
-      {/* ================= ABOUT SECTION ================= */}
+      {/* =====================================================
+          ABOUT SECTION
+      ===================================================== */}
+
       <section className="mx-auto max-w-7xl px-5 py-14 lg:px-8">
         <div className="grid gap-10 rounded-[2rem] border border-green-100 bg-gradient-to-br from-green-50 via-white to-lime-50 p-8 shadow-soft lg:grid-cols-2 lg:p-12">
+          {/* LEFT */}
+
           <div>
             <p className="mb-3 text-sm font-extrabold uppercase tracking-widest text-agriGreen">
               About AgriSmart
             </p>
 
             <h2 className="mb-5 text-3xl font-black leading-tight text-slate-950 md:text-4xl">
-              AI support for better farming decisions
+              Machine learning support for better farming decisions
             </h2>
 
             <p className="text-base leading-8 text-slate-600">
-              AgriSmart combines machine learning models with a clean web
-              interface to help users make agriculture-related predictions. The
-              platform supports crop recommendation, fertilizer recommendation
-              with biodegradable alternatives, and plant disease detection using
-              uploaded leaf images.
+              AgriSmart combines machine learning and deep learning models with
+              a clean web interface to support agriculture-related predictions
+              and recommendations. The platform includes crop recommendation,
+              fertilizer recommendation with biodegradable alternatives, plant
+              disease detection using uploaded leaf images, and rule-based
+              agricultural guidance.
             </p>
 
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
@@ -153,7 +196,13 @@ function Home() {
             </div>
           </div>
 
+          {/* =================================================
+              RIGHT MODEL CARDS
+          ================================================= */}
+
           <div className="grid gap-4 sm:grid-cols-2">
+            {/* Crop model */}
+
             <div className="rounded-3xl bg-white p-6 shadow-sm">
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-green-100 text-agriGreen">
                 <Sprout size={26} />
@@ -162,10 +211,13 @@ function Home() {
               <h3 className="mb-2 font-black text-slate-900">Crop Model</h3>
 
               <p className="text-sm leading-6 text-slate-600">
-                Predicts a suitable crop using nitrogen, phosphorus, potassium,
-                temperature, humidity, pH, and rainfall values.
+                Uses a trained Random Forest model to recommend suitable crops
+                from nitrogen, phosphorus, potassium, temperature, humidity, pH,
+                and rainfall values.
               </p>
             </div>
+
+            {/* Fertilizer model */}
 
             <div className="rounded-3xl bg-white p-6 shadow-sm">
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-yellow-100 text-yellow-700">
@@ -177,10 +229,12 @@ function Home() {
               </h3>
 
               <p className="text-sm leading-6 text-slate-600">
-                Suggests fertilizer based on crop type, soil type, moisture, and
-                nutrient values.
+                Uses soil type, crop type, moisture, temperature, humidity, and
+                nutrient values to recommend a suitable fertilizer.
               </p>
             </div>
+
+            {/* Disease */}
 
             <div className="rounded-3xl bg-white p-6 shadow-sm">
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-purple-100 text-agriPurple">
@@ -192,10 +246,13 @@ function Home() {
               </h3>
 
               <p className="text-sm leading-6 text-slate-600">
-                Uses a deep learning model to identify plant disease from leaf
-                images.
+                Uses a trained deep learning image model to identify plant
+                diseases from uploaded leaf images and provide treatment and
+                prevention guidance.
               </p>
             </div>
+
+            {/* Eco alternative */}
 
             <div className="rounded-3xl bg-white p-6 shadow-sm">
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-green-100 text-agriGreen">
@@ -207,20 +264,26 @@ function Home() {
               </h3>
 
               <p className="text-sm leading-6 text-slate-600">
-                Provides biodegradable fertilizer alternatives to support more
-                sustainable farming decisions.
+                Provides biodegradable fertilizer alternatives alongside
+                fertilizer recommendations to support more sustainable farming
+                decisions.
               </p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* ================= WORKFLOW SECTION ================= */}
+      {/* =====================================================
+          HOW IT WORKS
+      ===================================================== */}
+
       <section
         id="how-it-works"
         className="scroll-mt-28 mx-auto max-w-7xl px-5 pb-16 lg:px-8"
       >
         <div className="rounded-[2rem] bg-white p-8 shadow-soft lg:p-10">
+          {/* Heading */}
+
           <div className="mb-8 text-center">
             <p className="mb-2 text-sm font-extrabold uppercase tracking-widest text-agriGreen">
               How It Works
@@ -232,6 +295,8 @@ function Home() {
           </div>
 
           <div className="grid gap-6 md:grid-cols-3">
+            {/* STEP 1 */}
+
             <div className="rounded-3xl border border-slate-100 p-6">
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-green-100 text-agriGreen">
                 <Leaf size={25} />
@@ -242,10 +307,12 @@ function Home() {
               </h3>
 
               <p className="text-sm leading-6 text-slate-600">
-                Add crop, soil, nutrient, weather, or image input based on the
-                selected prediction module.
+                Add crop, soil, nutrient, environmental, sensor, or leaf-image
+                input depending on the selected module.
               </p>
             </div>
+
+            {/* STEP 2 */}
 
             <div className="rounded-3xl border border-slate-100 p-6">
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-yellow-100 text-yellow-700">
@@ -257,10 +324,13 @@ function Home() {
               </h3>
 
               <p className="text-sm leading-6 text-slate-600">
-                The frontend sends data to the FastAPI ML service where trained
-                models generate predictions.
+                The frontend sends the input to the FastAPI ML service, where
+                the trained machine learning or deep learning model processes
+                the data and generates the result.
               </p>
             </div>
+
+            {/* STEP 3 */}
 
             <div className="rounded-3xl border border-slate-100 p-6">
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-purple-100 text-agriPurple">
@@ -270,8 +340,9 @@ function Home() {
               <h3 className="mb-2 font-black text-slate-900">3. View Result</h3>
 
               <p className="text-sm leading-6 text-slate-600">
-                The platform displays crop, fertilizer, biodegradable
-                alternative, or disease prediction result.
+                View crop recommendations, fertilizer and biodegradable
+                alternatives, rotation guidance, or plant disease results with
+                treatment and prevention information.
               </p>
             </div>
           </div>

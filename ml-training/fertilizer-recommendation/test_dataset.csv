@@ -1,0 +1,1708 @@
+Temperature,Humidity,Soil Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorus,Fertilizer
+12.31,46.67,15.55,Loamy,Linseed (Flax),20.67,16.34,27.07,20-30-20
+39.42,48.41,23.59,Sandy,Bajra,57.35,29.07,28.92,MOP
+34.7,85.94,38.67,Alluvial,Rice,142.02,55.79,56.89,MOP
+13.61,45.79,18.3,Loamy,Garlic,44.62,44.84,23.21,20-10-20
+21.72,60.35,25.07,Loamy,Coriander,26.39,21.84,21.07,MOP
+27.74,82.22,31.12,Sandy Loam,Ginger,132.77,73.76,75.48,MOP
+31.18,32.56,16.71,Loamy Sand,Bajra,43.3,20.19,20.34,40-20-20
+21.61,72.58,26.25,Sandy Loam,Turmeric,100.5,51.38,51.81,100-50-50
+25.86,43.55,15.3,Sandy,Cowpea (Lobia),1.73,16.6,17.26,0-20-20
+14.8,55.61,23.18,Clay Loam,Rapeseed & Mustard,78.41,47.49,36.95,Urea
+28.65,75.95,35.8,Sandy Loam,Sugarcane,203.32,215.98,68.36,SSP
+32.12,81.49,36.78,Clay Loam,Rice,128.83,53.19,54.03,DAP
+27.67,54.36,22.09,Loamy,Groundnut,12.97,50.03,36.64,MOP
+25.0,41.54,16.26,Loamy,Urad (Black Gram),0.3,21.84,20.12,0-20-20
+15.39,42.85,15.94,Red Loam,Masoor (Red Lentil),1.89,16.5,15.21,0-20-20
+15.72,40.08,13.18,Loamy,Cowpea (Lobia),28.29,12.2,37.42,DAP
+10.77,40.0,16.43,Loamy,Garlic,40.85,43.26,20.7,15-15-15
+35.57,43.07,22.26,Loamy Sand,Bajra,51.42,25.0,25.33,DAP
+33.43,47.95,19.87,Sandy Loam,Safflower,47.0,28.83,29.47,MOP
+29.3,68.1,24.29,Loamy,Peas & Beans (Pulses),9.84,22.69,23.75,Urea
+19.26,49.7,19.92,Loamy,Peas & Beans (Pulses),2.77,18.63,18.58,DAP
+20.89,46.79,15.72,Loamy,Sunflower,43.73,33.14,30.47,20-10-10
+29.97,57.83,24.07,Clay Loam,Gram (Chickpea),16.22,27.51,28.22,Urea
+23.33,40.38,16.69,Loamy,Groundnut,3.78,43.83,30.13,0-40-40
+15.14,62.92,19.11,Sandy Loam,Jowar,23.51,6.63,44.98,DAP
+39.87,81.31,12.33,Clay,Onion,13.92,17.9,15.11,DAP
+33.54,88.15,46.33,Sandy,Bajra,23.52,23.14,44.6,40-20-20
+25.88,54.23,27.2,Sandy Loam,Maize (Fodder),73.76,35.86,34.37,Urea
+31.04,33.69,16.98,Loamy Sand,Bajra,41.73,21.3,20.84,40-20-20
+15.3,65.32,12.04,Loamy,Rapeseed & Mustard,10.93,7.73,26.98,30-15-20
+32.79,67.81,31.97,Loam,Maize (Grain),114.87,66.35,57.93,MOP
+12.12,40.3,16.19,Sandy Loam,Linseed (Flax),21.78,15.06,26.75,20-30-20
+39.06,38.94,13.15,Clay,Dry Chillies,25.72,12.17,19.62,60-40-60
+22.38,60.76,20.34,Sandy Loam,Masoor (Red Lentil),6.5,22.12,22.21,MOP
+13.6,54.58,20.66,Clay Loam,Potato,121.01,60.17,43.68,20-20-20
+14.64,47.98,18.26,Sandy Loam,Barley,38.18,23.01,23.32,Urea
+33.06,89.72,42.91,Clay,Turmeric,22.14,7.94,21.31,100-50-50
+32.18,61.57,21.33,Loamy,Urad Bean,5.66,27.06,25.57,MOP
+27.75,51.79,19.44,Loamy,Cowpea (Lobia),4.26,19.4,18.25,DAP
+17.99,56.79,22.22,Clay Loam,Wheat,94.02,31.42,34.02,DAP
+20.38,71.98,25.97,Loamy,Turmeric,107.29,51.79,51.28,100-50-50
+26.45,50.45,16.6,Sandy Loam,Ragi (Finger Millet),25.0,20.17,22.25,SSP
+24.03,58.25,23.76,Clay Loam,Garlic,57.63,59.39,29.91,MOP
+25.97,47.61,24.73,Clay Loam,Maize (Fodder),74.94,38.3,33.47,Urea
+27.11,60.8,23.79,Sandy Loam,Arhar/Tur,7.29,20.8,28.48,DAP
+17.83,52.35,24.29,Sandy Loam,Coriander,24.52,17.96,19.87,DAP
+21.13,57.81,22.39,Red Loam,Masoor (Red Lentil),6.73,22.35,21.1,MOP
+26.23,62.42,21.61,Sandy Loam,Sunflower,61.5,40.71,42.31,DAP
+25.78,43.83,15.79,Loamy,Urad (Black Gram),0.49,20.29,20.1,0-20-20
+36.37,75.16,26.43,Sand,Barley,29.68,19.42,16.73,MOP
+21.47,57.69,20.16,Loamy,Masoor (Red Lentil),7.16,21.42,20.17,MOP
+18.94,49.17,19.44,Red Loam,Masoor (Red Lentil),3.9,18.26,18.35,DAP
+28.48,88.58,37.53,Sandy Loam,Sunflower,2.68,12.69,28.32,DAP
+37.92,55.79,43.25,Sand,Turmeric,6.7,26.22,30.44,Organic compost
+29.66,60.45,30.39,Sandy Loam,Maize (Grain),103.07,61.34,54.71,DAP
+22.51,45.12,18.63,Loamy,Gram (Chickpea),6.33,23.74,23.64,DAP
+30.4,68.02,27.45,Sandy Loam,Arhar/Tur,13.46,23.78,32.88,MOP
+17.82,45.32,16.45,Sandy Loam,Peas & Beans (Pulses),2.19,16.14,17.4,0-20-20
+16.39,44.23,15.5,Sandy Loam,Masoor (Red Lentil),1.86,16.92,16.23,0-20-20
+26.73,60.75,21.02,Sandy Loam,Sunflower,60.4,41.13,42.27,DAP
+32.87,45.28,22.33,Loam,Cotton (Lint),87.06,87.26,52.56,DAP
+19.22,48.96,22.77,Loamy,Coriander,24.41,18.22,19.38,DAP
+16.52,61.68,25.63,Clay,Rice,8.86,18.6,44.28,Urea
+27.96,56.57,18.4,Loamy,Moong (Green Gram),2.57,23.59,24.33,DAP
+33.59,68.53,34.64,Sandy Loam,Maize (Fodder),82.93,48.31,38.87,MOP
+21.08,44.57,16.99,Clay Loam,Sunflower,43.47,30.34,31.74,20-10-10
+27.4,33.87,15.77,Clay Loam,Jowar,40.27,22.48,21.8,40-20-20
+32.16,61.1,21.09,Red Loam,Moong (Green Gram),5.84,27.04,27.43,MOP
+24.46,63.19,29.86,Sandy Loam,Coriander,28.48,23.01,24.06,Urea
+33.27,67.21,24.15,Loamy,Cowpea (Lobia),9.82,23.24,24.03,Compound NPK (0-20-20)
+19.85,89.67,35.11,Sand,Sunflower,13.35,30.39,43.09,MOP
+22.84,69.43,22.73,Sandy Loam,Masoor (Red Lentil),8.74,23.3,24.6,Urea
+31.73,55.36,22.98,Red Clay Loam,Dry Chillies,55.05,55.31,37.2,DAP
+29.05,89.88,33.92,Loamy,Ginger,140.66,78.69,79.56,Organic compost
+38.99,48.03,37.68,Red Loam,Safflower,6.56,30.37,42.91,Urea
+34.51,57.06,24.07,Red Clay Loam,Dry Chillies,58.47,56.15,39.88,MOP
+13.0,53.88,17.7,Loamy,Linseed (Flax),23.09,19.95,29.39,DAP
+19.26,65.02,29.53,Clay Loam,Potato,149.69,75.72,56.93,MOP
+28.62,44.8,17.46,Sandy Loam,Safflower,40.23,25.41,26.06,DAP
+29.89,52.11,19.78,Red Loam,Urad Bean,4.82,23.45,23.78,DAP
+30.75,81.39,35.59,Clay Loam,Rice,130.54,51.34,51.09,DAP
+26.77,43.73,15.21,Sandy Loam,Urad Bean,0.33,22.31,21.87,0-20-20
+32.08,59.09,21.63,Loamy,Urad (Black Gram),7.3,26.71,26.84,MOP
+26.31,83.0,31.73,Sandy Loam,Turmeric,133.42,65.09,63.14,MOP
+32.94,44.92,21.26,Loam,Cotton (Lint),87.32,91.33,53.11,DAP
+12.46,40.5,15.07,Loamy,Garlic,43.23,40.44,20.59,15-15-15
+35.77,56.52,32.66,Sandy Loam,Arhar/Tur,28.06,24.37,17.82,20-40-20
+20.62,70.73,25.77,Loamy,Ginger,106.62,63.39,62.98,120-60-60
+21.52,41.96,15.27,Sandy Loam,Gram (Chickpea),2.36,21.58,20.92,0-20-20
+15.82,40.08,16.3,Red Loam,Masoor (Red Lentil),1.54,15.87,17.02,0-20-20
+24.29,40.1,16.69,Sandy Loam,Groundnut,4.82,43.63,31.44,0-40-40
+15.83,52.77,19.34,Clay Loam,Wheat,71.66,25.05,29.31,Urea
+27.47,41.76,17.27,Loamy,Cowpea (Lobia),2.12,17.29,16.23,0-20-20
+27.49,52.17,16.01,Red Loam,Moong (Green Gram),0.03,20.48,22.47,0-20-20
+28.66,59.19,17.66,Red Loam,Moong (Green Gram),2.86,23.1,22.57,DAP
+32.23,56.65,21.09,Loamy,Urad (Black Gram),6.42,25.52,26.66,MOP
+37.4,61.28,10.38,Clay Loam,Wheat,5.09,31.33,20.05,MOP
+33.66,65.69,34.84,Sandy Loam,Maize (Fodder),87.76,46.16,37.67,MOP
+32.95,63.26,23.13,Red Loam,Urad Bean,8.63,29.15,28.68,Urea
+26.27,31.39,16.05,Loam,Cotton (Lint),60.42,61.25,40.73,30-15-15
+32.61,84.97,38.37,Alluvial,Sugarcane,235.21,249.94,74.16,MOP
+23.51,47.94,19.88,Clay Loam,Sunflower,53.88,38.26,36.37,Urea
+19.28,54.9,22.12,Sandy Loam,Garlic,52.94,52.53,27.35,DAP
+39.22,75.06,31.61,Red Clay Loam,Dry Chillies,25.2,10.58,44.04,DAP
+31.16,46.31,21.0,Loam,Jowar,51.84,25.39,25.57,DAP
+18.01,48.19,18.27,Loamy,Masoor (Red Lentil),2.83,18.81,18.57,DAP
+10.41,51.72,21.44,Sandy Loam,Rapeseed & Mustard,60.45,43.0,34.5,30-15-20
+24.41,53.76,19.11,Loamy,Sunflower,50.34,37.6,39.05,Urea
+22.63,37.76,14.57,Red Loam,Ragi (Finger Millet),23.66,19.45,19.86,Urea
+23.01,88.64,40.65,Loamy,Gram (Chickpea),9.96,28.85,17.52,MOP
+22.53,77.17,34.37,Clay,Turmeric,12.14,33.68,30.67,Organic compost
+14.66,59.08,24.64,Loamy,Potato,132.07,66.05,49.69,Urea
+20.34,30.67,10.39,Red Loam,Ragi (Finger Millet),20.45,16.57,16.56,20-15-15
+19.0,54.18,24.05,Loamy,Coriander,22.63,18.31,17.93,DAP
+35.75,42.37,21.43,Loamy Sand,Bajra,53.89,25.0,25.41,DAP
+23.36,75.72,28.46,Red Loam,Ginger,110.35,68.0,64.42,Urea
+33.91,37.89,19.02,Loamy Sand,Bajra,46.47,23.8,24.19,Urea
+26.64,69.57,34.44,Black Soil,Sugarcane,192.85,187.24,55.24,Urea
+10.56,43.86,16.31,Clay Loam,Wheat,60.15,20.48,22.48,20-10-10
+28.19,49.9,19.89,Loamy,Urad (Black Gram),3.31,24.14,24.02,DAP
+20.93,47.99,19.37,Red Loam,Peas & Beans (Pulses),4.39,19.47,17.61,DAP
+31.45,51.3,20.03,Sandy Loam,Jowar,50.15,25.44,25.84,DAP
+34.36,38.78,19.84,Loamy Sand,Bajra,48.2,23.16,24.2,Urea
+29.34,40.95,15.15,Sandy Loam,Safflower,40.74,26.1,26.84,DAP
+22.11,30.54,11.18,Loamy,Ragi (Finger Millet),21.84,16.29,16.49,20-15-15
+23.46,61.65,35.16,Sand,Cowpea (Lobia),17.4,8.18,31.15,0-20-20
+32.43,61.32,20.6,Sandy Loam,Cowpea (Lobia),5.18,22.37,20.68,MOP
+28.18,47.61,17.58,Loamy,Cowpea (Lobia),2.81,19.3,19.27,DAP
+32.96,66.03,24.4,Sandy Loam,Urad (Black Gram),8.38,29.84,27.72,Urea
+20.51,40.15,15.78,Sandy Loam,Sunflower,46.9,30.9,34.64,20-10-10
+17.96,63.9,23.15,Loamy,Linseed (Flax),28.97,23.7,33.71,Urea
+32.23,46.57,18.36,Sandy Loam,Safflower,48.82,27.73,27.81,MOP
+31.65,32.13,15.09,Sandy,Bajra,43.79,22.34,21.94,40-20-20
+15.9,64.81,25.08,Loamy,Rapeseed & Mustard,87.26,54.37,43.66,DAP
+20.96,44.75,15.59,Loamy,Gram (Chickpea),0.97,20.6,21.54,0-20-20
+27.61,58.75,29.35,Sandy Loam,Maize (Fodder),81.54,41.05,35.32,DAP
+28.71,67.54,22.65,Loamy,Peas & Beans (Pulses),7.63,24.36,23.13,Urea
+27.39,41.26,15.29,Loamy,Cowpea (Lobia),1.77,15.6,17.37,0-20-20
+17.02,40.53,16.76,Loamy,Masoor (Red Lentil),1.98,16.22,15.93,0-20-20
+27.88,79.56,32.65,Alluvial,Rice,119.77,49.1,48.8,Urea
+31.3,55.29,22.11,Sandy Loam,Dry Chillies,53.13,55.74,37.1,DAP
+25.09,57.62,20.24,Loamy,Peas & Beans (Pulses),6.03,22.04,21.8,MOP
+27.79,31.48,14.63,Sandy Loam,Urad Bean,17.53,23.44,23.81,MOP
+17.39,55.42,22.47,Loam,Jowar,4.8,16.83,25.57,DAP
+28.96,77.96,35.5,Black Soil,Sugarcane,216.81,213.64,67.68,SSP
+11.15,54.99,20.64,Loamy,Rapeseed & Mustard,63.14,41.73,32.96,30-15-20
+27.07,74.76,33.77,Black Soil,Sugarcane,199.86,176.24,51.26,Urea
+32.81,68.28,23.09,Loamy,Moong (Green Gram),9.15,29.9,28.33,Urea
+11.59,47.0,15.56,Sandy Loam,Barley,31.79,20.72,21.44,20-20-20
+32.59,58.99,23.32,Sandy Loam,Jowar,57.65,29.83,29.24,MOP
+16.43,46.79,20.99,Loamy,Coriander,21.11,15.38,16.65,15-15-15
+28.9,53.62,19.4,Red Loam,Urad (Black Gram),3.6,23.64,22.94,DAP
+33.41,44.45,26.03,Loamy,Moong (Green Gram),23.34,19.24,26.07,MOP
+19.78,66.56,28.46,Clay Loam,Potato,149.76,78.28,57.82,MOP
+23.77,67.45,22.54,Red Loam,Masoor (Red Lentil),9.57,24.08,22.95,Urea
+18.81,45.34,17.05,Loamy,Turmeric,24.96,30.76,37.06,MOP
+34.63,66.55,24.98,Sandy Loam,Urad (Black Gram),9.28,28.08,28.56,Urea
+26.59,53.34,21.96,Clay Loam,Gram (Chickpea),10.54,25.67,26.75,MOP
+20.85,59.03,20.22,Sandy Loam,Barley,42.91,25.06,26.9,DAP
+33.25,69.73,22.51,Red Loam,Moong (Green Gram),9.13,29.03,28.14,Urea
+29.7,55.88,22.73,Clay Loam,Gram (Chickpea),19.74,28.53,27.97,Urea
+22.08,55.1,24.86,Loamy,Onion,113.69,55.54,55.52,MOP
+22.42,50.29,18.95,Loamy,Peas & Beans (Pulses),3.49,17.69,19.93,DAP
+20.89,72.67,25.71,Sandy Loam,Ginger,108.67,60.25,62.74,120-60-60
+18.8,57.3,21.9,Loamy,Wheat,89.41,34.95,32.54,DAP
+16.8,77.31,31.18,Clay,Urad (Black Gram),20.79,34.68,44.29,Urea
+32.3,39.57,16.06,Sand,Gram (Chickpea),18.42,28.99,21.46,Urea
+15.56,46.15,21.08,Sandy Loam,Coriander,20.13,16.61,15.55,15-15-15
+27.05,67.49,26.91,Red Loam,Urad Bean,25.91,21.55,27.95,0-20-20
+26.43,64.19,24.86,Loamy,Peas & Beans (Pulses),9.96,23.38,24.77,Urea
+20.78,31.45,11.39,Loamy,Ragi (Finger Millet),21.96,17.48,15.57,20-15-15
+37.05,70.98,18.51,Sandy Loam,Bajra,11.95,33.93,28.47,DAP
+19.35,68.48,28.82,Clay Loam,Rapeseed & Mustard,97.92,55.86,46.3,MOP
+18.81,65.92,24.61,Loamy,Linseed (Flax),29.7,24.71,32.84,Urea
+16.33,46.58,21.48,Sandy Loam,Coriander,21.4,16.4,15.95,15-15-15
+24.64,68.55,24.32,Loamy,Wheat,103.71,39.1,39.0,MOP
+26.86,50.34,27.35,Loam,Maize (Fodder),74.79,39.22,34.29,Urea
+30.4,59.78,24.72,Red Loam,Urad (Black Gram),22.05,12.36,42.37,Urea
+18.05,48.07,19.06,Sandy Loam,Masoor (Red Lentil),4.93,17.74,18.95,DAP
+20.18,59.7,39.0,Clay,Gram (Chickpea),19.36,13.59,41.55,DAP
+21.74,61.5,21.39,Red Loam,Masoor (Red Lentil),5.34,21.75,22.3,MOP
+32.52,84.73,33.44,Red Loam,Turmeric,14.11,34.39,37.29,DAP
+34.95,68.84,23.23,Loamy,Cowpea (Lobia),9.71,24.57,23.86,Compound NPK (0-20-20)
+23.91,58.3,24.9,Loamy,Onion,113.26,56.72,57.76,MOP
+14.66,48.76,17.86,Sandy Loam,Linseed (Flax),23.95,19.09,27.57,DAP
+32.16,65.44,34.93,Sandy Loam,Maize (Grain),115.7,66.5,57.22,MOP
+21.01,87.69,29.83,Loamy,Linseed (Flax),6.11,17.02,32.03,20-30-20
+32.59,68.26,23.95,Loamy,Urad Bean,9.46,29.45,27.99,Urea
+36.2,71.21,36.1,Sandy Loam,Gram (Chickpea),17.11,14.96,30.87,0-20-20
+21.37,71.6,27.0,Red Loam,Ginger,108.85,60.34,62.64,120-60-60
+25.73,50.19,22.07,Loamy,Gram (Chickpea),14.37,26.95,26.87,MOP
+30.79,60.02,21.14,Loamy,Cowpea (Lobia),5.94,22.2,20.12,MOP
+22.02,55.07,24.71,Sandy Loam,Onion,116.52,55.6,59.86,MOP
+34.16,64.09,34.24,Sandy Loam,Maize (Fodder),84.3,47.62,38.69,MOP
+27.99,53.43,20.02,Sandy Loam,Groundnut,10.19,52.15,35.4,MOP
+25.76,34.95,17.04,Loam,Jowar,40.8,22.44,20.7,40-20-20
+27.65,83.84,32.68,Sandy Loam,Turmeric,133.22,64.0,62.94,MOP
+18.67,45.76,17.06,Sandy Loam,Peas & Beans (Pulses),0.72,16.98,16.52,0-20-20
+19.45,55.89,22.98,Loamy,Garlic,52.17,55.22,27.59,DAP
+21.17,47.16,17.34,Clay Loam,Sunflower,47.63,31.81,32.02,20-10-10
+37.2,45.85,13.79,Clay Loam,Maize (Fodder),1.3,32.45,31.31,Urea
+31.91,56.86,21.4,Sandy Loam,Cowpea (Lobia),6.3,20.33,20.27,MOP
+13.65,52.96,20.47,Clay Loam,Potato,120.87,62.13,41.53,20-20-20
+17.1,86.46,20.74,Loamy,Masoor (Red Lentil),8.4,15.58,41.94,Urea
+28.71,57.66,19.13,Sandy Loam,Ragi (Finger Millet),27.95,24.45,22.6,MOP
+32.13,60.05,20.99,Loamy,Urad Bean,5.0,27.1,25.58,MOP
+30.5,69.4,29.48,Sandy Loam,Arhar/Tur,17.02,23.32,33.63,MOP
+18.82,51.43,19.78,Loamy,Peas & Beans (Pulses),3.69,19.21,18.04,DAP
+22.03,66.53,24.75,Clay Loam,Barley,46.88,28.94,29.17,MOP
+31.64,32.63,16.92,Sandy Loam,Bajra,40.31,20.27,20.96,40-20-20
+18.32,66.19,24.65,Sandy Loam,Linseed (Flax),27.8,24.22,34.3,Urea
+17.19,74.19,39.3,Clay,Cotton (Lint),18.93,19.82,22.41,DAP
+29.32,54.05,21.05,Loamy,Groundnut,11.51,51.47,36.96,MOP
+21.1,45.25,21.35,Sandy Loam,Maize (Fodder),61.07,30.14,31.52,25-10-15
+12.01,45.19,16.01,Loamy,Wheat,55.09,23.61,20.6,20-10-10
+22.22,74.92,27.42,Sandy Loam,Ginger,119.81,66.65,66.58,Urea
+22.88,75.35,27.35,Loamy,Turmeric,110.52,55.11,54.93,Urea
+15.76,43.69,22.34,Loamy,Coriander,21.47,16.15,15.39,15-15-15
+25.49,58.68,21.64,Clay,Cowpea (Lobia),4.2,25.34,28.05,DAP
+27.11,69.63,23.13,Sandy Loam,Peas & Beans (Pulses),8.01,24.51,22.91,Urea
+20.28,58.73,21.66,Clay Loam,Barley,42.07,26.5,27.07,DAP
+32.96,46.44,44.01,Red Loam,Urad (Black Gram),27.94,29.52,42.79,Urea
+31.12,82.25,41.27,Sand,Urad Bean,0.99,33.85,38.41,0-20-20
+25.15,61.97,22.27,Clay Loam,Sunflower,69.73,43.75,44.28,DAP
+23.14,64.93,34.03,Clay Loam,Gram (Chickpea),24.64,18.86,22.89,Urea
+27.47,37.32,15.62,Loam,Jowar,40.32,21.02,20.62,40-20-20
+15.46,45.42,17.61,Sandy Loam,Onion,91.67,46.9,47.38,Urea
+16.41,42.98,16.05,Loamy,Peas & Beans (Pulses),1.92,15.36,15.78,0-20-20
+26.56,82.18,32.27,Red Loam,Ginger,135.66,74.21,74.92,MOP
+39.32,47.31,23.06,Sandy Loam,Bajra,58.76,29.48,29.7,MOP
+20.28,44.17,15.81,Clay Loam,Gram (Chickpea),3.04,21.58,21.19,0-20-20
+11.59,41.86,15.34,Clay Loam,Barley,34.19,20.71,20.31,20-20-20
+28.46,60.61,24.75,Clay Loam,Arhar/Tur,8.26,20.59,30.64,DAP
+27.24,57.09,24.15,Loamy,Arhar/Tur,8.28,21.56,29.65,DAP
+26.4,51.26,20.33,Clay Loam,Arhar/Tur,6.01,18.26,28.17,20-40-20
+17.81,66.04,24.4,Loamy,Linseed (Flax),27.53,23.93,34.8,Urea
+11.09,52.06,20.15,Loamy,Rapeseed & Mustard,62.82,42.26,30.57,30-15-20
+30.66,31.27,15.32,Sandy,Bajra,43.98,21.53,20.22,40-20-20
+27.46,54.31,17.18,Sandy Loam,Moong (Green Gram),0.23,21.89,21.69,0-20-20
+29.07,59.14,24.67,Sandy Loam,Gram (Chickpea),19.55,29.59,28.78,Urea
+19.17,51.6,22.79,Loamy,Coriander,22.97,19.94,19.33,DAP
+14.95,59.14,23.21,Clay Loam,Potato,130.6,66.23,48.29,Urea
+20.02,51.44,20.39,Loamy,Onion,100.06,51.74,53.57,DAP
+30.99,45.84,21.63,Sandy Loam,Jowar,50.98,25.59,26.44,DAP
+30.67,48.7,20.67,Sandy Loam,Jowar,50.75,26.71,25.43,DAP
+16.71,41.74,16.89,Loamy,Masoor (Red Lentil),1.29,15.91,15.51,0-20-20
+21.79,57.27,26.03,Loamy,Coriander,26.1,21.09,21.37,MOP
+23.03,43.35,12.88,Red Loam,Ragi (Finger Millet),22.69,18.6,18.2,Urea
+24.49,68.29,33.3,Loamy,Sugarcane,177.77,189.25,53.97,Urea
+25.3,51.31,22.4,Sandy Loam,Gram (Chickpea),11.93,26.08,25.07,MOP
+19.21,66.65,24.28,Loamy,Linseed (Flax),28.11,24.61,34.11,Urea
+19.14,50.99,19.88,Sandy Loam,Peas & Beans (Pulses),3.6,18.78,18.64,DAP
+26.69,71.67,32.05,Silty Loam,Rice,103.88,41.12,41.92,40-20-20
+26.92,40.56,16.39,Loamy,Dry Chillies,40.1,43.9,31.71,40-30-40
+29.45,50.61,18.23,Sandy Loam,Urad (Black Gram),3.67,24.39,22.92,DAP
+33.46,48.38,24.05,Clay Loam,Cotton (Lint),96.41,94.87,59.37,MOP
+27.13,84.53,31.3,Loamy,Ginger,131.12,75.66,74.52,MOP
+24.55,45.85,37.26,Clay,Moong (Green Gram),5.02,25.82,24.9,0-20-20
+20.2,56.17,26.8,Sandy Loam,Coriander,26.88,20.58,20.59,MOP
+21.47,42.86,36.44,Sandy Loam,Urad (Black Gram),27.22,23.51,39.97,Urea
+24.67,45.44,18.56,Clay Loam,Gram (Chickpea),7.17,23.86,24.09,DAP
+29.29,67.81,24.65,Loamy,Peas & Beans (Pulses),8.68,24.69,23.53,Urea
+29.14,49.4,18.09,Sandy Loam,Urad (Black Gram),3.58,24.85,24.36,DAP
+33.4,88.1,39.43,Clay Loam,Rice,140.1,59.81,55.24,MOP
+33.32,53.92,24.76,Sandy Loam,Jowar,55.61,27.54,27.85,MOP
+34.7,48.33,23.57,Loam,Cotton (Lint),96.93,93.49,57.21,MOP
+16.72,48.01,18.94,Loamy,Onion,97.21,49.68,47.35,Urea
+25.44,78.83,29.19,Red Loam,Turmeric,125.0,61.49,59.68,DAP
+24.44,54.16,19.37,Loamy,Sunflower,52.75,38.25,39.86,Urea
+29.68,52.94,18.8,Red Loam,Ragi (Finger Millet),27.88,22.69,23.52,MOP
+26.91,49.4,18.67,Loamy,Groundnut,9.57,49.52,33.05,DAP
+26.92,40.46,15.41,Sandy Loam,Dry Chillies,40.04,41.22,30.88,40-30-40
+30.8,40.06,19.26,Sandy Loam,Cotton (Lint),82.98,82.1,49.73,Urea
+31.51,84.09,36.59,Clay Loam,Rice,128.41,50.14,53.19,DAP
+15.21,58.94,21.18,Sandy Loam,Linseed (Flax),25.32,22.41,30.43,MOP
+35.74,73.84,11.91,Sand,Ragi (Finger Millet),4.13,8.43,27.84,SSP
+31.32,31.0,19.46,Clay,Sunflower,12.94,26.48,31.89,Urea
+26.67,52.08,27.08,Clay Loam,Maize (Grain),98.43,53.52,49.09,Urea
+33.28,69.93,24.55,Sandy Loam,Moong (Green Gram),8.71,28.34,28.35,Urea
+27.88,58.3,28.08,Sand,Gram (Chickpea),11.38,20.24,44.44,MOP
+26.29,72.38,31.88,Clay Loam,Rice,104.81,44.17,43.38,40-20-20
+27.04,85.06,31.02,Loamy,Turmeric,138.54,64.28,64.75,MOP
+29.65,38.05,19.05,Sandy Loam,Cotton (Lint),78.11,82.41,50.79,Urea
+38.72,62.42,49.4,Clay,Maize (Fodder),15.91,21.33,30.51,DAP
+26.71,69.83,34.47,Loamy,Sugarcane,191.09,185.82,58.71,Urea
+15.25,56.62,21.15,Loamy,Linseed (Flax),26.75,22.22,31.51,MOP
+29.15,51.93,20.19,Sandy,Groundnut,14.81,52.68,36.13,MOP
+23.51,32.78,11.37,Loamy,Safflower,35.0,21.03,20.35,30-20-20
+22.78,65.89,23.0,Red Loam,Masoor (Red Lentil),7.61,23.74,24.83,Urea
+24.35,40.47,17.09,Sandy Loam,Groundnut,4.72,44.41,32.1,0-40-40
+10.85,50.96,22.12,Clay Loam,Rapeseed & Mustard,61.51,42.18,30.26,30-15-20
+31.93,48.58,20.02,Loam,Jowar,53.46,25.42,26.81,DAP
+24.48,79.68,29.87,Red Loam,Turmeric,128.56,60.17,61.26,DAP
+32.3,30.26,17.46,Sandy,Bajra,42.9,20.47,22.24,40-20-20
+20.31,62.73,13.26,Sandy Loam,Turmeric,24.23,30.35,24.0,MOP
+34.13,48.04,19.63,Loamy,Safflower,45.67,28.83,28.98,MOP
+26.87,74.31,32.91,Sandy Loam,Sugarcane,198.76,182.85,56.58,Urea
+26.71,51.29,16.58,Red Loam,Moong (Green Gram),0.67,21.14,21.7,0-20-20
+26.5,66.41,21.42,Loamy,Masoor (Red Lentil),2.35,18.55,44.11,MOP
+25.9,40.3,15.52,Sandy Loam,Dry Chillies,40.76,41.58,31.86,40-30-40
+33.28,64.81,24.28,Red Loam,Urad (Black Gram),9.18,28.26,28.79,Urea
+39.93,76.82,23.02,Sand,Coriander,2.98,25.98,39.49,MOP
+28.07,79.27,36.43,Black Soil,Sugarcane,216.28,207.48,69.58,SSP
+34.54,66.33,32.36,Sandy Loam,Maize (Fodder),83.52,45.9,39.12,MOP
+30.96,60.59,27.52,Sandy Loam,Maize (Grain),101.64,56.09,53.03,DAP
+30.27,49.1,19.95,Sandy Loam,Dry Chillies,48.35,48.32,35.51,Urea
+22.7,76.6,27.65,Sandy Loam,Turmeric,119.56,57.67,56.92,Urea
+35.9,43.64,21.19,Sandy Loam,Bajra,50.39,27.06,25.7,DAP
+25.2,81.83,30.92,Loamy,Ginger,120.87,70.9,71.29,DAP
+14.6,42.91,17.08,Clay Loam,Onion,80.69,44.61,40.58,15-15-15
+19.61,58.94,22.44,Loamy,Barley,43.53,25.31,25.03,DAP
+29.2,56.97,17.53,Sandy Loam,Moong (Green Gram),2.89,24.58,23.19,DAP
+28.45,51.68,19.29,Loamy,Urad Bean,3.42,24.24,24.82,DAP
+26.44,68.37,33.7,Loamy,Sugarcane,182.33,195.86,56.33,Urea
+30.8,57.84,20.31,Red Loam,Urad Bean,5.26,27.39,25.37,MOP
+25.33,49.63,19.13,Sandy Loam,Groundnut,8.87,49.32,34.29,DAP
+19.15,73.55,27.0,Sand,Sunflower,22.54,22.06,29.02,Urea
+13.97,50.54,17.69,Sandy Loam,Wheat,82.29,25.37,27.84,Urea
+27.55,40.44,17.27,Red Loam,Safflower,43.71,26.27,25.82,DAP
+25.67,52.81,22.15,Clay Loam,Gram (Chickpea),12.73,26.11,26.03,MOP
+22.83,42.18,15.07,Sandy,Groundnut,4.52,40.58,31.48,0-40-40
+16.31,44.81,20.56,Sandy Loam,Coriander,21.25,16.63,15.77,15-15-15
+28.7,40.29,19.29,Sandy Loam,Jowar,47.99,23.87,22.65,Urea
+29.13,30.63,29.85,Sandy Loam,Potato,1.35,27.08,21.71,20-20-20
+17.59,40.55,20.48,Red Loam,Masoor (Red Lentil),2.37,31.6,38.43,Urea
+23.2,41.93,22.29,Clay Loam,Maize (Grain),81.46,46.76,44.37,30-10-20
+18.42,49.72,24.99,Sandy Loam,Coriander,24.33,19.98,18.62,DAP
+25.33,50.31,24.19,Loam,Maize (Fodder),69.76,37.21,32.58,Urea
+33.1,66.84,24.98,Loamy,Cowpea (Lobia),8.95,24.64,24.72,Compound NPK (0-20-20)
+19.79,52.81,22.99,Loamy,Garlic,52.81,53.19,26.02,DAP
+28.69,40.1,18.68,Sandy Loam,Jowar,49.7,23.44,23.92,Urea
+16.45,49.27,18.05,Loamy,Onion,90.88,47.49,47.14,Urea
+31.64,66.46,33.74,Sandy Loam,Maize (Grain),116.86,63.16,56.9,MOP
+29.16,50.96,20.48,Loamy,Groundnut,10.85,50.51,36.48,MOP
+26.88,45.29,17.1,Red Loam,Urad Bean,0.43,20.68,21.9,0-20-20
+24.39,81.0,30.07,Red Loam,Ginger,123.56,70.76,70.99,DAP
+11.76,51.46,21.61,Clay Loam,Rapeseed & Mustard,60.85,40.61,32.41,30-15-20
+31.23,82.54,36.3,Alluvial,Rice,128.29,51.64,52.48,DAP
+23.33,86.88,18.49,Clay,Garlic,3.25,23.81,26.11,DAP
+30.99,56.48,21.81,Loamy,Urad Bean,5.21,26.93,26.47,MOP
+29.38,53.6,19.62,Loamy,Urad Bean,4.06,23.27,22.53,DAP
+37.35,66.31,22.48,Alluvial,Rice,22.05,16.82,17.55,Urea
+31.12,43.57,16.14,Red Loam,Safflower,42.66,26.78,27.12,DAP
+26.66,60.96,21.53,Sandy Loam,Sunflower,60.72,44.35,41.18,DAP
+19.85,51.39,23.8,Clay,Linseed (Flax),6.01,34.92,25.35,Urea
+27.37,69.32,34.65,Sandy Loam,Sugarcane,186.86,192.07,54.42,Urea
+28.34,86.09,33.76,Red Loam,Ginger,147.04,79.43,78.29,Organic compost
+19.78,66.09,28.4,Clay Loam,Potato,149.59,79.7,59.73,MOP
+24.49,59.0,23.41,Clay Loam,Garlic,56.75,59.84,28.68,MOP
+24.5,66.97,23.61,Clay Loam,Barley,47.09,29.41,27.98,MOP
+23.73,44.21,45.5,Clay,Maize (Grain),1.43,17.08,44.44,MOP
+28.18,56.92,24.77,Clay Loam,Gram (Chickpea),18.81,29.91,27.68,Urea
+17.46,47.22,15.9,Sandy Loam,Masoor (Red Lentil),0.94,16.17,15.47,0-20-20
+30.11,67.94,29.96,Sandy Loam,Arhar/Tur,14.08,22.15,33.72,MOP
+14.65,51.04,18.83,Loamy,Barley,36.63,23.65,22.71,Urea
+26.87,69.21,32.78,Sandy Loam,Sugarcane,181.16,190.13,50.51,Urea
+34.79,65.26,24.67,Sandy Loam,Moong (Green Gram),9.27,29.58,29.53,Urea
+29.9,63.51,10.51,Sandy Loam,Maize (Fodder),8.87,33.15,40.94,Urea
+29.54,59.15,24.92,Sandy,Groundnut,15.19,55.65,38.73,Urea
+19.16,68.99,29.95,Sandy Loam,Rapeseed & Mustard,94.68,57.89,49.8,MOP
+19.81,55.12,21.46,Sandy Loam,Barley,43.31,27.47,25.96,DAP
+24.48,81.28,30.86,Red Loam,Ginger,128.78,71.13,69.61,DAP
+24.86,53.05,21.3,Clay Loam,Arhar/Tur,3.53,15.95,28.2,20-40-20
+15.66,58.15,24.45,Clay Loam,Potato,132.75,68.74,45.26,Urea
+39.95,48.31,24.3,Sandy Loam,Bajra,56.49,28.36,29.57,MOP
+22.91,56.27,23.32,Sandy Loam,Garlic,57.89,57.39,29.69,MOP
+22.41,41.06,16.81,Sandy,Groundnut,1.38,42.14,30.07,0-40-40
+15.89,47.13,19.46,Clay Loam,Onion,95.17,46.54,48.95,Urea
+10.82,42.43,17.03,Loamy,Linseed (Flax),21.92,16.79,26.55,20-30-20
+18.08,49.59,22.67,Sandy Loam,Coriander,23.49,19.2,18.36,DAP
+20.53,51.67,20.11,Clay Loam,Onion,105.6,53.73,51.45,DAP
+22.91,45.74,22.49,Clay Loam,Maize (Fodder),65.95,31.94,31.11,25-10-15
+27.46,51.64,20.06,Sandy Loam,Groundnut,10.59,50.73,36.35,MOP
+24.17,72.05,33.46,Sandy Loam,Sugarcane,188.06,199.33,54.32,Urea
+28.55,64.51,24.07,Loamy,Sunflower,70.28,49.53,46.46,MOP
+29.57,55.61,18.2,Red Loam,Masoor (Red Lentil),15.6,5.04,41.53,Urea
+19.09,65.56,29.39,Sandy Loam,Potato,143.27,79.56,58.11,MOP
+25.44,79.73,29.15,Loamy,Ginger,128.99,69.71,71.23,DAP
+33.25,66.35,24.05,Red Loam,Urad (Black Gram),8.73,27.74,29.48,Urea
+31.06,73.31,47.25,Loamy,Safflower,24.01,5.78,17.67,DAP
+22.52,75.49,28.59,Loamy,Ginger,115.9,66.54,66.05,Urea
+29.69,68.84,27.14,Loamy,Arhar/Tur,19.56,22.44,33.96,MOP
+15.45,52.68,17.83,Loamy,Barley,35.56,24.89,23.5,Urea
+31.98,58.25,20.7,Loamy,Cowpea (Lobia),7.19,22.29,20.47,MOP
+30.84,57.98,20.03,Loamy,Urad (Black Gram),6.45,26.51,26.49,MOP
+19.41,65.1,27.72,Clay,Turmeric,14.64,23.73,28.26,DAP
+20.75,50.54,21.24,Sandy Loam,Onion,105.92,51.75,53.07,DAP
+22.71,44.43,23.37,Sandy Loam,Maize (Grain),86.18,40.66,43.74,30-10-20
+23.64,61.62,22.47,Sandy Loam,Peas & Beans (Pulses),6.5,21.56,22.01,MOP
+23.69,53.97,18.71,Clay Loam,Sunflower,59.33,38.42,38.0,Urea
+11.81,42.47,16.37,Clay Loam,Garlic,40.9,41.3,20.47,15-15-15
+18.37,68.31,23.13,Sandy Loam,Linseed (Flax),28.08,23.24,32.82,Urea
+32.12,49.63,21.36,Loam,Jowar,54.72,27.18,25.47,DAP
+28.17,67.3,24.23,Sandy Loam,Sunflower,70.38,48.05,49.07,MOP
+34.8,67.25,24.55,Red Loam,Moong (Green Gram),8.33,27.56,27.69,Urea
+11.86,53.92,20.36,Sandy Loam,Rapeseed & Mustard,64.19,43.47,30.92,30-15-20
+22.24,69.43,25.51,Clay Loam,Maize (Grain),18.0,27.66,33.73,30-10-20
+15.13,41.58,15.75,Sandy Loam,Peas & Beans (Pulses),0.53,15.22,15.05,0-20-20
+16.11,41.87,22.12,Sandy Loam,Coriander,22.39,16.27,16.73,15-15-15
+22.87,64.61,22.54,Loamy,Masoor (Red Lentil),8.86,23.24,23.98,Urea
+24.68,45.89,19.28,Sandy Loam,Groundnut,5.22,48.56,34.43,DAP
+32.5,35.02,46.78,Sandy Loam,Safflower,5.01,18.1,17.88,Urea
+29.95,58.54,28.42,Clay Loam,Maize (Grain),109.21,58.1,50.52,DAP
+33.6,46.91,23.53,Loam,Cotton (Lint),94.23,92.78,59.63,MOP
+33.03,89.53,37.6,Black Soil,Sugarcane,249.75,235.16,79.04,MOP
+16.27,45.94,40.42,Loamy,Urad Bean,21.42,21.0,38.54,Urea
+20.17,71.16,25.37,Loamy,Ginger,101.42,63.15,63.04,120-60-60
+11.34,40.9,17.3,Clay Loam,Wheat,50.45,22.66,24.5,20-10-10
+20.94,73.87,25.59,Loamy,Ginger,106.83,63.73,63.54,120-60-60
+33.81,47.13,24.06,Clay Loam,Cotton (Lint),96.83,99.28,57.25,MOP
+13.05,43.99,15.36,Clay Loam,Onion,88.99,43.01,42.1,15-15-15
+25.22,31.72,15.19,Sandy Loam,Cotton (Lint),63.58,64.11,41.17,30-15-15
+18.98,66.15,27.57,Sandy Loam,Potato,143.3,75.7,55.99,MOP
+18.23,65.93,28.9,Clay Loam,Rapeseed & Mustard,97.81,59.8,47.56,MOP
+11.44,54.05,21.86,Clay Loam,Rapeseed & Mustard,67.15,40.94,34.84,30-15-20
+26.31,82.14,32.34,Loamy,Turmeric,130.45,64.02,64.69,MOP
+26.02,71.01,31.7,Silty Loam,Rice,111.31,42.16,41.06,40-20-20
+32.23,55.51,21.18,Red Clay Loam,Dry Chillies,54.4,55.81,37.17,DAP
+23.38,48.08,19.36,Clay Loam,Sunflower,56.96,39.84,36.0,Urea
+23.27,34.69,12.26,Sandy Loam,Safflower,30.85,22.24,21.28,30-20-20
+29.45,54.31,18.8,Red Loam,Ragi (Finger Millet),28.18,23.79,24.74,MOP
+28.77,87.07,34.14,Loamy,Ginger,147.38,77.03,78.97,Organic compost
+16.23,61.22,27.35,Clay Loam,Potato,135.76,74.67,50.56,SSP
+16.87,59.68,22.2,Sandy Loam,Linseed (Flax),26.48,21.26,30.85,MOP
+17.86,69.16,29.63,Clay Loam,Rapeseed & Mustard,91.12,58.98,47.43,MOP
+31.24,53.48,21.59,Red Clay Loam,Dry Chillies,52.34,55.21,37.79,DAP
+15.06,56.73,22.11,Sandy Loam,Linseed (Flax),26.45,21.14,30.58,MOP
+38.11,56.24,30.51,Red Clay Loam,Dry Chillies,8.91,20.17,16.09,60-40-60
+25.55,51.04,16.15,Loamy,Ragi (Finger Millet),25.17,22.17,20.37,SSP
+38.02,48.69,22.63,Sandy Loam,Bajra,59.49,28.19,28.6,MOP
+23.63,46.12,18.24,Clay Loam,Gram (Chickpea),7.05,22.67,24.16,DAP
+30.17,61.98,28.26,Loam,Maize (Grain),100.49,58.68,54.0,DAP
+17.74,40.45,22.28,Alluvial,Sugarcane,0.35,8.6,41.29,40-20-20
+29.36,39.3,20.66,Loam,Cotton (Lint),80.02,83.56,49.72,Urea
+13.65,55.87,24.18,Sandy Loam,Rapeseed & Mustard,76.5,49.37,36.45,Urea
+27.18,51.82,21.71,Sandy,Groundnut,13.85,51.11,36.57,MOP
+27.02,70.61,30.98,Silty Loam,Rice,111.49,43.37,41.77,40-20-20
+38.58,45.4,23.06,Sandy Loam,Bajra,55.31,28.43,29.6,MOP
+33.84,56.37,24.11,Sandy Loam,Dry Chillies,58.68,56.7,39.08,MOP
+22.52,66.99,22.89,Loamy,Masoor (Red Lentil),8.32,23.75,24.59,Urea
+34.15,86.04,38.79,Clay Loam,Rice,138.13,57.35,58.66,MOP
+35.28,41.18,20.67,Loamy Sand,Bajra,54.8,25.13,25.12,DAP
+33.7,65.67,23.37,Sandy Loam,Urad Bean,8.09,29.56,27.65,Urea
+22.25,57.78,26.89,Sandy Loam,Coriander,25.84,22.11,21.97,MOP
+33.75,49.51,24.38,Loam,Cotton (Lint),96.16,98.76,56.28,MOP
+19.56,40.67,41.77,Sand,Ginger,12.75,26.4,35.09,MOP
+25.48,42.96,37.61,Sandy Loam,Ginger,13.26,13.21,19.94,Organic compost
+31.91,66.16,34.3,Sandy Loam,Maize (Grain),114.86,67.48,59.77,MOP
+37.05,50.35,34.95,Clay,Urad (Black Gram),18.21,32.56,16.12,Urea
+33.27,66.77,24.43,Sandy,Cowpea (Lobia),9.81,22.99,24.72,Compound NPK (0-20-20)
+34.7,56.52,24.94,Red Clay Loam,Dry Chillies,56.16,58.7,38.62,MOP
+16.86,64.61,25.76,Loamy,Rapeseed & Mustard,89.63,53.37,40.1,DAP
+29.94,40.86,20.69,Loam,Cotton (Lint),80.68,80.08,50.98,Urea
+32.56,66.52,24.4,Loamy,Moong (Green Gram),9.14,27.83,28.92,Urea
+39.15,79.16,22.61,Sand,Ginger,0.83,32.85,40.38,120-60-60
+23.72,42.59,17.08,Sandy Loam,Groundnut,0.86,43.53,30.15,0-40-40
+33.4,48.17,19.61,Sandy Loam,Safflower,49.14,29.04,29.01,MOP
+29.31,50.8,17.55,Loamy,Urad Bean,4.68,23.82,24.14,DAP
+34.07,65.46,23.86,Sandy,Cowpea (Lobia),9.62,23.75,22.7,Compound NPK (0-20-20)
+28.69,45.07,17.21,Red Clay Loam,Dry Chillies,45.83,46.12,33.92,60-40-60
+20.24,47.01,15.29,Loamy,Sunflower,40.9,31.04,34.12,20-10-10
+10.65,43.47,16.26,Sandy Loam,Linseed (Flax),20.89,15.74,27.41,20-30-20
+28.33,77.1,34.1,Clay Loam,Rice,113.69,48.54,45.31,Urea
+16.31,55.06,22.34,Loamy,Linseed (Flax),26.46,22.27,31.06,MOP
+21.84,52.01,19.04,Red Loam,Peas & Beans (Pulses),2.98,18.11,17.62,DAP
+23.02,42.12,23.51,Sandy Loam,Maize (Grain),85.6,44.51,41.22,30-10-20
+30.0,59.7,23.52,Loamy,Groundnut,17.62,56.85,38.82,Urea
+31.98,53.35,21.92,Loamy,Dry Chillies,55.24,55.0,37.91,DAP
+28.0,44.74,19.91,Clay Loam,Jowar,46.96,24.6,24.2,Urea
+19.79,63.09,24.96,Sandy Loam,Linseed (Flax),29.39,22.56,32.89,Urea
+26.49,50.98,20.8,Loamy,Arhar/Tur,1.33,18.17,25.18,20-40-20
+23.61,51.59,18.04,Sandy Loam,Sunflower,53.7,38.28,36.89,Urea
+21.31,52.28,21.55,Sandy Loam,Garlic,53.82,52.56,27.83,DAP
+27.43,44.9,18.0,Sandy Loam,Dry Chillies,45.51,45.29,33.13,60-40-60
+20.83,54.94,21.88,Clay Loam,Garlic,54.67,52.87,27.15,DAP
+26.45,34.49,17.33,Clay Loam,Jowar,44.92,20.23,21.16,40-20-20
+29.72,76.39,36.37,Black Soil,Sugarcane,211.57,203.8,68.78,SSP
+29.92,50.11,19.75,Sandy Loam,Urad (Black Gram),4.02,24.22,23.83,DAP
+33.5,57.78,24.73,Sandy Loam,Jowar,56.2,27.75,28.66,MOP
+32.71,89.55,39.6,Loamy,Sugarcane,236.33,230.27,76.07,MOP
+16.52,58.63,25.73,Clay,Urad (Black Gram),15.05,16.78,27.99,DAP
+28.49,56.68,26.46,Clay Loam,Arhar/Tur,9.79,21.5,30.52,DAP
+31.94,52.32,22.06,Red Clay Loam,Dry Chillies,54.19,55.66,36.81,DAP
+28.2,48.47,18.12,Red Loam,Urad (Black Gram),2.5,24.3,24.72,DAP
+28.39,55.87,24.88,Sandy Loam,Gram (Chickpea),16.31,29.01,29.96,Urea
+15.08,50.33,18.62,Clay Loam,Wheat,72.83,27.72,28.86,Urea
+10.42,52.25,22.09,Clay Loam,Rapeseed & Mustard,63.54,40.13,32.03,30-15-20
+23.43,53.57,18.3,Clay Loam,Sunflower,59.75,38.76,37.21,Urea
+13.93,50.5,18.57,Loamy,Linseed (Flax),23.22,18.19,29.77,DAP
+29.19,67.01,23.45,Red Loam,Peas & Beans (Pulses),8.65,22.62,24.83,Urea
+21.61,62.79,30.91,Black Soil,Sugarcane,156.8,167.97,45.27,40-20-20
+14.05,58.18,23.47,Loamy,Rapeseed & Mustard,76.39,47.54,39.57,Urea
+17.71,70.44,34.13,Loamy Sand,Bajra,12.59,8.25,30.26,DAP
+22.82,76.8,27.54,Red Loam,Ginger,119.3,66.19,66.08,Urea
+25.52,42.54,19.31,Clay,Bajra,19.57,13.72,15.6,40-20-20
+26.77,52.13,17.4,Loamy,Moong (Green Gram),0.78,21.25,21.73,0-20-20
+30.54,61.77,30.56,Clay Loam,Maize (Fodder),77.41,41.45,35.18,DAP
+16.48,60.12,25.5,Loamy,Potato,136.68,74.22,54.26,SSP
+25.68,61.37,21.01,Clay Loam,Sunflower,60.28,40.68,41.84,DAP
+13.13,51.93,21.94,Loamy,Potato,123.3,64.36,40.35,20-20-20
+18.46,61.95,21.23,Sandy Loam,Barley,44.3,25.56,25.23,DAP
+33.75,71.74,32.71,Clay Loam,Maize (Grain),23.66,29.73,22.02,DAP
+22.27,67.22,22.7,Sandy Loam,Barley,46.97,29.04,29.15,MOP
+17.62,48.28,23.9,Sandy Loam,Coriander,23.75,19.09,18.25,DAP
+29.46,55.61,19.31,Loamy,Moong (Green Gram),4.62,22.98,24.11,DAP
+26.99,79.29,47.08,Clay,Ragi (Finger Millet),1.96,33.06,41.69,SSP
+30.16,89.46,21.18,Sand,Urad (Black Gram),21.33,7.66,18.72,MOP
+28.06,53.79,18.36,Loamy,Urad Bean,4.35,24.08,23.38,DAP
+17.6,51.49,18.25,Sandy Loam,Masoor (Red Lentil),4.71,18.83,19.21,DAP
+31.72,50.38,22.34,Sandy Loam,Jowar,50.33,26.48,25.91,DAP
+33.72,69.69,23.57,Loamy,Urad Bean,8.21,27.65,29.9,Urea
+21.73,66.11,23.77,Sandy Loam,Wheat,112.25,35.88,35.32,MOP
+15.49,45.74,16.66,Red Loam,Peas & Beans (Pulses),0.91,15.37,15.58,0-20-20
+17.01,41.53,17.18,Red Loam,Masoor (Red Lentil),1.33,16.66,15.11,0-20-20
+26.24,46.25,15.14,Sandy Loam,Ragi (Finger Millet),26.72,21.17,22.04,SSP
+32.82,84.89,38.03,Loamy,Sugarcane,241.23,242.8,77.19,MOP
+29.33,46.56,33.99,Sandy Loam,Urad (Black Gram),19.03,29.38,21.72,DAP
+31.01,63.81,27.19,Loamy,Arhar/Tur,15.01,24.22,32.49,MOP
+33.27,66.58,33.65,Sandy Loam,Maize (Fodder),84.82,46.62,37.79,MOP
+25.08,43.62,16.02,Red Loam,Urad Bean,1.45,21.43,20.03,0-20-20
+22.74,44.15,14.14,Red Loam,Ragi (Finger Millet),23.76,17.64,18.5,Urea
+28.86,59.48,20.0,Sandy Loam,Moong (Green Gram),2.64,23.6,24.04,DAP
+11.86,52.9,21.6,Sandy Loam,Rapeseed & Mustard,67.64,40.11,32.17,30-15-20
+27.41,47.32,15.29,Red Loam,Urad (Black Gram),0.14,21.96,21.43,0-20-20
+10.0,53.41,21.26,Loamy,Rapeseed & Mustard,61.59,40.06,33.66,30-15-20
+18.52,54.32,17.8,Sandy Loam,Masoor (Red Lentil),3.21,18.14,19.01,DAP
+29.8,49.23,18.38,Sandy Loam,Cowpea (Lobia),4.11,18.69,19.14,DAP
+23.14,65.26,30.37,Loamy,Sugarcane,166.09,153.86,45.8,40-20-20
+15.95,61.93,26.67,Sandy Loam,Rapeseed & Mustard,83.41,50.01,42.71,DAP
+24.93,73.43,34.92,Sandy Loam,Sugarcane,198.79,199.85,50.55,Urea
+25.76,89.78,34.12,Sandy Loam,Cotton (Lint),18.18,22.72,29.48,30-15-15
+11.03,45.37,16.94,Clay Loam,Wheat,63.4,21.28,23.35,20-10-10
+38.63,47.94,23.92,Sandy Loam,Bajra,56.91,28.5,29.97,MOP
+29.19,35.84,23.3,Sand,Masoor (Red Lentil),11.24,15.04,36.62,0-20-20
+12.47,41.83,15.73,Sandy Loam,Onion,84.78,42.36,42.96,15-15-15
+21.89,45.97,16.72,Sandy Loam,Sunflower,40.87,30.83,30.53,20-10-10
+28.68,36.55,18.43,Sandy Loam,Cotton (Lint),68.18,74.19,47.87,20-20-20
+15.26,46.49,17.04,Sandy Loam,Garlic,44.81,47.96,23.27,20-10-20
+28.08,49.37,19.25,Sandy Loam,Cowpea (Lobia),2.66,18.02,18.44,DAP
+30.21,58.95,20.53,Loamy,Urad Bean,6.57,27.42,25.89,MOP
+25.62,46.64,17.82,Sandy,Groundnut,7.98,49.99,32.69,DAP
+29.48,87.57,33.38,Loamy,Turmeric,143.02,68.89,68.63,Organic compost
+17.48,60.57,26.28,Sandy Loam,Potato,137.48,72.21,53.68,SSP
+12.33,52.62,21.89,Clay Loam,Potato,126.61,61.44,40.93,20-20-20
+24.46,62.01,20.19,Sandy Loam,Peas & Beans (Pulses),7.1,21.96,21.51,MOP
+22.14,77.7,27.79,Red Loam,Ginger,112.61,67.95,64.9,Urea
+33.47,46.06,30.49,Clay Loam,Barley,16.32,30.41,27.05,20-20-20
+20.5,33.68,11.2,Loamy,Ragi (Finger Millet),21.76,16.56,15.96,20-15-15
+33.98,58.14,23.4,Red Clay Loam,Dry Chillies,56.97,57.94,39.13,MOP
+31.45,55.45,22.11,Loamy,Dry Chillies,54.09,52.05,36.7,DAP
+18.07,69.24,28.08,Sandy Loam,Potato,146.33,75.2,56.96,MOP
+18.75,66.89,29.04,Clay Loam,Rapeseed & Mustard,94.7,57.75,47.32,MOP
+23.89,67.81,48.92,Sandy Loam,Safflower,26.22,29.27,27.23,Urea
+12.15,51.06,22.49,Loamy,Potato,124.02,61.93,43.53,20-20-20
+26.69,57.08,21.02,Loamy,Sunflower,61.93,44.42,40.53,DAP
+25.94,49.36,25.31,Loam,Maize (Fodder),71.37,36.54,32.89,Urea
+27.48,89.32,19.88,Clay,Maize (Fodder),2.52,5.79,33.75,25-10-15
+23.07,65.92,24.19,Sandy Loam,Masoor (Red Lentil),8.84,23.28,22.68,Urea
+21.53,73.52,25.61,Loamy,Turmeric,101.68,53.13,53.65,100-50-50
+27.99,52.62,19.89,Red Loam,Ragi (Finger Millet),28.4,23.66,24.57,MOP
+33.03,70.04,46.32,Black Soil,Sugarcane,19.45,5.85,41.83,Urea
+26.67,57.99,20.36,Sandy Loam,Sunflower,69.67,42.48,44.14,DAP
+15.76,42.76,17.04,Sandy Loam,Masoor (Red Lentil),1.39,15.38,15.65,0-20-20
+35.32,48.75,26.69,Clay,Ginger,26.82,29.74,29.24,Organic compost
+28.32,58.87,24.86,Loamy,Gram (Chickpea),18.24,29.5,28.0,Urea
+23.67,50.47,17.72,Clay Loam,Sunflower,54.81,38.82,35.33,Urea
+20.85,55.98,21.9,Sandy Loam,Masoor (Red Lentil),5.05,21.4,21.31,MOP
+24.07,49.65,19.32,Clay Loam,Gram (Chickpea),9.71,23.23,24.98,DAP
+34.53,69.02,24.69,Sandy Loam,Urad (Black Gram),9.32,28.04,28.48,Urea
+32.89,43.17,22.52,Sandy Loam,Cotton (Lint),90.81,84.9,55.12,DAP
+32.63,64.28,24.87,Sandy,Cowpea (Lobia),8.72,24.58,24.07,Compound NPK (0-20-20)
+27.75,59.77,22.88,Sandy Loam,Gram (Chickpea),18.5,28.04,28.2,Urea
+17.08,48.65,18.47,Loamy,Onion,96.29,48.04,48.75,Urea
+29.42,69.41,24.03,Loamy,Sunflower,79.47,47.82,48.52,MOP
+24.16,49.6,18.27,Clay Loam,Gram (Chickpea),9.92,22.9,24.47,DAP
+34.49,64.84,24.32,Sandy,Cowpea (Lobia),9.7,22.69,24.25,Compound NPK (0-20-20)
+17.37,41.57,22.36,Loamy,Coriander,22.3,16.94,15.45,15-15-15
+28.34,55.41,24.21,Sandy Loam,Gram (Chickpea),16.11,28.37,29.84,Urea
+19.74,50.87,23.64,Sandy Loam,Coriander,23.37,18.6,18.06,DAP
+34.52,69.83,22.87,Sandy Loam,Urad Bean,8.25,27.97,29.54,Urea
+33.53,68.94,34.96,Sandy Loam,Maize (Grain),115.19,63.13,58.92,MOP
+32.0,57.96,21.72,Sandy Loam,Cowpea (Lobia),6.58,20.92,21.23,MOP
+33.96,65.71,22.66,Sandy,Cowpea (Lobia),8.0,23.45,22.54,Compound NPK (0-20-20)
+31.61,45.32,21.49,Sandy Loam,Jowar,53.96,26.97,25.87,DAP
+32.27,53.71,33.53,Sand,Ragi (Finger Millet),20.59,34.33,25.87,Urea
+27.06,60.25,22.11,Loamy,Sunflower,60.97,44.5,44.75,DAP
+24.04,38.09,12.85,Loamy,Safflower,39.82,24.84,22.54,Urea
+32.19,80.58,37.32,Alluvial,Rice,135.23,54.02,52.41,DAP
+16.26,62.42,20.4,Loamy,Linseed (Flax),27.47,22.32,30.94,MOP
+26.13,41.48,16.18,Sandy Loam,Cowpea (Lobia),1.77,15.67,15.71,0-20-20
+25.17,72.79,30.02,Clay Loam,Rice,111.54,44.09,44.11,40-20-20
+20.94,72.99,26.48,Red Loam,Turmeric,100.78,51.52,52.41,100-50-50
+17.98,49.91,22.76,Sandy Loam,Coriander,23.68,17.96,19.72,DAP
+32.9,49.79,18.97,Red Loam,Safflower,46.14,28.89,28.06,MOP
+17.03,80.37,15.59,Loam,Maize (Fodder),9.39,6.02,43.55,DAP
+18.92,65.82,28.39,Loamy,Rapeseed & Mustard,96.65,59.61,45.58,MOP
+38.85,49.31,23.77,Sandy,Bajra,58.23,28.71,28.54,MOP
+30.65,64.61,22.36,Loamy,Moong (Green Gram),6.48,27.11,25.25,MOP
+29.12,40.72,19.49,Loam,Cotton (Lint),79.14,78.77,51.63,Urea
+33.54,65.08,22.52,Loamy,Urad Bean,8.28,27.67,27.57,Urea
+35.96,57.73,33.95,Clay,Safflower,27.05,32.5,37.5,DAP
+21.87,57.96,21.38,Red Loam,Masoor (Red Lentil),5.5,22.15,21.42,MOP
+20.71,59.75,44.31,Sand,Garlic,25.67,18.74,40.94,DAP
+13.37,54.7,20.96,Loamy,Potato,125.86,62.13,41.89,20-20-20
+12.48,45.76,15.18,Clay Loam,Wheat,57.5,23.64,21.29,20-10-10
+26.07,45.59,16.53,Red Loam,Urad Bean,0.84,21.96,21.97,0-20-20
+27.36,85.71,31.7,Red Loam,Turmeric,135.27,62.44,65.97,MOP
+12.35,53.25,20.15,Clay Loam,Potato,125.38,60.74,41.6,20-20-20
+22.95,56.14,23.04,Loamy,Garlic,57.0,57.75,29.2,MOP
+20.26,59.09,21.97,Loamy,Barley,40.59,25.77,25.43,DAP
+31.97,30.42,15.79,Loamy Sand,Bajra,44.91,20.73,21.15,40-20-20
+22.87,41.14,16.39,Loamy,Groundnut,4.0,41.43,31.79,0-40-40
+24.22,42.07,15.74,Sandy Loam,Groundnut,2.72,44.92,30.97,0-40-40
+15.83,76.75,26.81,Clay,Potato,19.21,17.77,43.26,MOP
+20.22,44.39,20.59,Clay Loam,Maize (Grain),83.57,41.48,40.47,30-10-20
+26.73,85.07,31.77,Loamy,Turmeric,133.01,64.17,64.88,MOP
+30.77,62.49,22.28,Loamy,Moong (Green Gram),6.78,25.81,26.19,MOP
+15.02,58.91,21.01,Loamy,Linseed (Flax),25.49,21.07,31.81,MOP
+28.33,47.85,18.21,Sandy Loam,Urad Bean,3.87,24.59,24.51,DAP
+29.6,58.3,23.12,Sandy,Groundnut,16.43,56.97,39.1,Urea
+18.48,42.16,33.72,Sand,Coriander,1.93,15.67,15.17,Urea
+33.46,67.99,24.23,Loamy,Urad (Black Gram),9.0,29.9,28.8,Urea
+38.02,80.03,48.87,Sandy Loam,Garlic,12.74,21.27,40.03,MOP
+30.88,61.39,20.41,Sandy Loam,Urad Bean,6.55,26.26,26.15,MOP
+14.36,52.33,18.49,Sandy Loam,Barley,35.52,24.07,23.65,Urea
+22.05,76.26,28.43,Loamy,Turmeric,117.87,57.45,57.14,Urea
+23.64,65.15,48.2,Clay,Sunflower,26.68,18.72,24.01,MOP
+39.66,44.59,34.51,Sand,Arhar/Tur,28.83,26.57,21.36,20-40-20
+29.15,51.78,18.25,Loamy,Cowpea (Lobia),2.93,17.87,19.85,DAP
+25.95,40.11,16.61,Sandy,Cowpea (Lobia),2.16,15.75,15.68,0-20-20
+24.76,47.73,18.28,Sandy Loam,Gram (Chickpea),8.31,23.02,24.01,DAP
+31.44,32.21,16.96,Sandy Loam,Bajra,41.08,22.49,20.17,40-20-20
+25.67,65.82,48.37,Sandy,Bajra,20.64,22.92,15.06,DAP
+31.53,59.26,22.32,Sandy,Cowpea (Lobia),6.37,20.4,22.31,MOP
+12.94,41.73,17.4,Sandy Loam,Onion,85.32,42.78,41.91,15-15-15
+24.72,88.34,12.29,Sand,Peas & Beans (Pulses),21.66,10.02,22.13,0-20-20
+31.7,69.8,27.87,Loamy,Arhar/Tur,14.38,21.88,32.87,MOP
+33.01,84.89,39.88,Alluvial,Sugarcane,247.13,246.19,73.51,MOP
+17.59,67.65,28.58,Sandy Loam,Rapeseed & Mustard,97.41,58.73,49.36,MOP
+17.12,56.35,21.04,Sandy Loam,Linseed (Flax),25.59,22.02,31.62,MOP
+31.26,55.15,22.72,Loamy,Dry Chillies,55.26,54.38,37.35,DAP
+20.09,45.72,12.36,Sandy Loam,Moong (Green Gram),16.87,15.28,27.96,DAP
+25.09,54.8,17.07,Loamy,Moong (Green Gram),1.0,21.46,21.22,0-20-20
+29.82,57.75,19.03,Red Loam,Moong (Green Gram),3.77,24.7,23.91,DAP
+30.78,32.68,15.12,Sandy Loam,Bajra,41.42,21.51,20.1,40-20-20
+36.57,89.7,30.24,Alluvial,Rice,0.16,9.25,35.19,DAP
+24.75,41.78,14.88,Red Loam,Ragi (Finger Millet),23.04,19.32,18.57,Urea
+22.2,76.04,28.11,Sandy Loam,Turmeric,115.43,54.9,54.78,Urea
+34.08,56.07,24.98,Sandy Loam,Dry Chillies,59.07,59.39,39.6,MOP
+13.6,54.72,21.16,Clay Loam,Potato,120.03,64.19,44.61,20-20-20
+22.48,57.45,23.87,Sandy Loam,Onion,116.04,55.86,56.03,MOP
+29.18,79.01,29.69,Sandy,Groundnut,5.97,11.52,27.34,MOP
+30.18,60.72,22.19,Red Loam,Urad (Black Gram),7.13,25.0,25.94,MOP
+34.41,46.54,24.16,Loam,Cotton (Lint),94.71,93.02,56.08,MOP
+28.7,76.9,33.3,Alluvial,Rice,124.34,49.68,49.57,Urea
+27.55,64.75,23.6,Red Loam,Peas & Beans (Pulses),9.68,24.17,24.28,Urea
+21.86,41.22,17.01,Clay Loam,Gram (Chickpea),3.66,21.2,20.24,0-20-20
+22.17,55.43,25.91,Loamy,Coriander,26.03,20.18,22.42,MOP
+28.19,62.94,22.83,Sandy Loam,Peas & Beans (Pulses),7.9,22.75,23.14,Urea
+13.44,57.66,23.24,Loamy,Rapeseed & Mustard,71.08,49.77,37.38,Urea
+25.13,72.2,31.4,Silty Loam,Rice,106.65,40.86,42.93,40-20-20
+21.0,35.22,12.36,Red Loam,Ragi (Finger Millet),20.65,17.12,15.58,20-15-15
+17.04,63.26,25.84,Clay Loam,Rapeseed & Mustard,89.33,53.26,43.41,DAP
+22.86,39.22,13.09,Sandy Loam,Ragi (Finger Millet),24.31,19.94,17.84,Urea
+16.78,49.97,19.46,Sandy Loam,Barley,36.11,22.91,23.44,Urea
+38.77,45.56,43.44,Sandy Loam,Bajra,7.42,27.64,23.87,MOP
+25.75,49.26,26.81,Clay Loam,Maize (Fodder),75.0,37.44,33.88,Urea
+30.9,47.94,20.47,Sandy Loam,Moong (Green Gram),27.73,9.57,22.25,0-20-20
+26.53,84.42,31.97,Sandy Loam,Ginger,139.17,73.44,72.72,MOP
+28.29,53.58,42.51,Clay,Rice,7.87,10.49,16.82,Urea
+24.32,58.18,22.19,Sandy Loam,Peas & Beans (Pulses),6.67,22.33,22.45,MOP
+33.43,66.92,32.56,Loam,Maize (Fodder),88.15,47.43,39.76,MOP
+19.98,69.25,28.44,Sandy Loam,Rapeseed & Mustard,91.57,58.73,48.49,MOP
+17.08,59.14,22.0,Sandy Loam,Linseed (Flax),26.13,22.25,32.4,MOP
+27.78,59.82,18.84,Red Loam,Moong (Green Gram),4.65,23.65,22.55,DAP
+24.4,78.93,30.51,Red Loam,Ginger,122.34,69.5,69.96,DAP
+29.8,40.14,18.79,Loam,Jowar,49.27,24.82,24.21,Urea
+29.02,38.11,17.86,Sandy Loam,Jowar,46.03,23.19,22.52,Urea
+17.24,88.51,42.39,Clay,Cowpea (Lobia),7.74,27.44,33.19,MOP
+31.14,81.81,35.93,Alluvial,Rice,127.93,53.16,50.44,DAP
+13.46,45.75,15.92,Loamy,Wheat,51.02,24.33,21.56,20-10-10
+32.1,50.71,22.49,Sandy Loam,Jowar,54.7,27.32,25.82,DAP
+31.67,72.55,35.19,Loamy,Ragi (Finger Millet),5.68,14.18,24.77,MOP
+20.07,32.35,11.66,Red Loam,Safflower,31.44,21.27,21.8,30-20-20
+10.72,43.77,15.96,Loamy,Linseed (Flax),20.27,15.39,26.2,20-30-20
+28.43,88.9,33.56,Loamy,Turmeric,149.44,68.17,67.84,Organic compost
+22.26,44.87,17.35,Loamy,Sunflower,40.18,34.99,33.16,20-10-10
+22.36,76.07,27.15,Sandy Loam,Turmeric,114.65,54.12,56.54,Urea
+16.22,56.55,21.8,Sandy Loam,Linseed (Flax),27.2,21.92,31.34,MOP
+24.34,56.22,42.06,Loamy,Garlic,20.76,10.06,39.82,20-10-20
+29.57,39.92,19.15,Sandy Loam,Cotton (Lint),78.41,79.07,49.42,Urea
+31.12,63.52,28.81,Clay Loam,Arhar/Tur,16.44,22.54,32.53,MOP
+24.28,66.41,22.77,Clay Loam,Barley,46.81,28.9,29.68,MOP
+19.38,60.43,21.44,Sandy Loam,Barley,41.9,25.88,25.84,DAP
+29.52,48.7,19.79,Loamy,Urad (Black Gram),4.96,23.78,22.51,DAP
+23.31,42.09,22.74,Clay Loam,Maize (Grain),88.18,46.95,42.44,30-10-20
+11.73,43.71,15.55,Sandy Loam,Linseed (Flax),22.2,16.08,27.41,20-30-20
+26.02,82.87,31.41,Red Loam,Ginger,132.38,72.9,75.08,MOP
+30.59,49.2,20.52,Red Clay Loam,Dry Chillies,50.63,48.79,35.23,Urea
+30.05,55.19,21.1,Red Loam,Urad Bean,6.26,26.73,26.39,MOP
+25.22,40.97,15.59,Sandy Loam,Cowpea (Lobia),0.36,16.61,17.35,0-20-20
+32.42,63.15,20.24,Red Loam,Moong (Green Gram),5.86,26.06,26.13,MOP
+38.96,45.44,23.42,Loamy Sand,Bajra,59.0,29.54,29.37,MOP
+34.1,85.76,39.27,Silty Loam,Rice,140.61,59.19,56.99,MOP
+28.61,69.5,24.8,Sandy Loam,Peas & Beans (Pulses),8.98,24.0,24.91,Urea
+30.24,61.85,20.65,Sandy Loam,Urad Bean,5.04,25.46,25.3,MOP
+24.62,68.24,28.42,Sandy Loam,Coriander,28.97,24.16,23.1,Urea
+18.87,75.03,34.51,Red Clay Loam,Dry Chillies,9.07,24.25,20.3,Urea
+24.11,79.88,29.16,Loamy,Ginger,122.03,71.0,68.7,DAP
+23.59,68.09,22.56,Loamy,Masoor (Red Lentil),8.2,22.68,23.72,Urea
+29.43,53.11,20.65,Sandy,Groundnut,13.06,53.67,36.58,MOP
+27.71,65.56,24.9,Loamy,Peas & Beans (Pulses),7.51,24.56,24.72,Urea
+31.2,61.29,28.68,Sandy Loam,Maize (Grain),102.37,59.37,52.09,DAP
+19.56,53.21,20.36,Sandy Loam,Onion,101.69,50.18,50.93,DAP
+21.1,61.91,31.75,Loamy,Sugarcane,168.42,165.33,40.97,40-20-20
+32.77,69.64,26.19,Silty Loam,Rice,13.0,25.32,26.84,MOP
+24.48,58.31,23.92,Sandy Loam,Garlic,56.29,56.15,29.25,MOP
+27.61,58.74,18.34,Red Loam,Ragi (Finger Millet),29.2,23.19,24.26,MOP
+13.39,41.2,16.79,Sandy Loam,Onion,88.51,41.53,44.54,15-15-15
+27.62,63.82,24.65,Clay Loam,Sunflower,75.13,45.79,45.31,MOP
+18.76,55.82,21.39,Sandy Loam,Barley,41.44,26.61,27.45,DAP
+31.53,62.62,21.06,Loamy,Moong (Green Gram),5.79,27.4,26.66,MOP
+32.56,54.56,22.27,Sandy Loam,Dry Chillies,54.96,55.13,36.32,DAP
+14.5,48.61,18.35,Loamy,Barley,38.96,24.62,22.58,Urea
+22.8,63.72,22.53,Sandy Loam,Wheat,116.85,35.61,37.02,MOP
+17.06,58.91,20.04,Sandy Loam,Linseed (Flax),26.54,20.18,31.3,MOP
+23.83,63.09,22.86,Loamy,Wheat,109.09,37.37,39.71,MOP
+38.29,46.97,22.76,Sandy Loam,Bajra,57.94,27.71,29.71,MOP
+30.97,85.25,36.64,Clay,Dry Chillies,22.87,29.57,28.3,DAP
+27.22,74.73,30.73,Clay Loam,Rice,106.92,42.57,43.22,40-20-20
+23.58,41.6,15.75,Sandy Loam,Groundnut,1.53,43.7,31.75,0-40-40
+12.63,42.69,15.69,Sandy Loam,Onion,85.18,42.51,42.4,15-15-15
+20.06,33.56,39.15,Clay,Peas & Beans (Pulses),12.49,25.97,23.46,Urea
+25.97,53.54,16.67,Loamy,Moong (Green Gram),2.44,20.57,22.1,0-20-20
+18.43,68.87,24.26,Loamy,Linseed (Flax),29.65,22.88,33.66,Urea
+20.33,54.38,21.78,Clay Loam,Onion,104.56,54.53,53.08,DAP
+10.97,45.02,17.25,Loamy,Linseed (Flax),21.66,17.13,25.14,20-30-20
+28.9,51.35,17.99,Loamy,Urad (Black Gram),3.08,24.7,23.38,DAP
+29.16,41.72,15.39,Loamy,Safflower,42.05,25.21,26.14,DAP
+16.89,80.97,13.76,Loamy,Masoor (Red Lentil),28.1,22.3,24.1,DAP
+15.17,44.5,16.93,Loamy,Onion,84.59,42.85,40.42,15-15-15
+28.42,69.8,22.94,Loamy,Peas & Beans (Pulses),9.66,23.01,24.25,Urea
+27.08,49.79,25.12,Sandy Loam,Maize (Fodder),73.62,38.26,33.59,Urea
+22.48,48.07,19.82,Loamy,Peas & Beans (Pulses),4.79,17.61,20.0,DAP
+25.22,40.88,15.26,Red Clay Loam,Dry Chillies,43.53,40.3,31.74,40-30-40
+24.83,56.15,22.0,Sandy Loam,Arhar/Tur,4.44,16.43,26.49,20-40-20
+25.22,43.53,15.59,Sandy Loam,Cowpea (Lobia),1.82,16.35,15.1,0-20-20
+28.16,80.89,36.43,Alluvial,Sugarcane,207.03,208.47,67.32,SSP
+27.53,53.5,18.54,Sandy Loam,Cowpea (Lobia),4.01,19.78,17.71,DAP
+34.62,45.59,39.54,Sandy Loam,Cotton (Lint),14.33,17.58,43.75,MOP
+14.42,51.97,19.96,Loamy,Linseed (Flax),24.3,17.62,29.24,DAP
+22.39,61.72,21.67,Sandy Loam,Masoor (Red Lentil),7.0,22.01,21.48,MOP
+23.38,46.81,21.39,Clay Loam,Maize (Grain),85.42,42.9,41.36,30-10-20
+10.69,43.06,17.1,Loamy,Linseed (Flax),21.08,16.92,27.38,20-30-20
+29.43,87.89,33.55,Red Loam,Ginger,148.07,76.15,76.33,Organic compost
+30.37,33.33,16.04,Loamy Sand,Bajra,43.02,21.46,20.23,40-20-20
+23.42,64.64,24.5,Clay Loam,Wheat,106.68,38.04,36.9,MOP
+35.07,76.64,26.14,Clay,Moong (Green Gram),28.41,19.58,17.18,Urea
+14.12,53.83,18.38,Loamy,Linseed (Flax),24.37,18.03,28.9,DAP
+28.65,58.6,17.65,Red Loam,Ragi (Finger Millet),28.8,22.72,23.16,MOP
+32.87,89.35,39.22,Silty Loam,Rice,145.06,57.89,59.53,MOP
+15.09,43.0,15.46,Sandy Loam,Onion,81.39,40.58,44.06,15-15-15
+25.02,46.85,17.85,Sandy,Groundnut,6.71,46.5,34.07,DAP
+31.04,62.48,21.17,Red Loam,Urad Bean,7.31,25.35,27.04,MOP
+24.64,49.03,17.96,Clay Loam,Gram (Chickpea),8.57,23.17,22.64,DAP
+15.72,52.22,18.5,Sandy Loam,Barley,38.7,24.46,23.84,Urea
+25.42,79.03,30.49,Red Loam,Turmeric,120.78,61.25,58.84,DAP
+23.77,76.34,28.61,Red Loam,Ginger,113.8,64.15,65.66,Urea
+12.12,42.81,15.5,Clay Loam,Onion,88.82,42.86,42.7,15-15-15
+22.07,54.54,17.67,Red Loam,Peas & Beans (Pulses),3.21,19.7,18.03,DAP
+15.47,84.49,21.61,Sand,Masoor (Red Lentil),12.81,11.29,41.97,Urea
+12.14,42.63,15.34,Sandy Loam,Onion,88.33,41.23,44.51,15-15-15
+21.43,36.04,10.43,Sandy Loam,Ragi (Finger Millet),21.75,15.64,17.14,20-15-15
+18.05,66.2,28.4,Loamy,Potato,147.99,78.83,58.43,MOP
+28.24,75.27,33.11,Clay Loam,Rice,119.15,45.44,47.5,Urea
+25.82,78.2,10.09,Loamy,Ragi (Finger Millet),19.5,28.23,37.95,20-15-15
+31.33,60.31,20.05,Red Loam,Moong (Green Gram),5.31,25.4,26.14,MOP
+34.55,35.47,19.33,Sandy,Bajra,47.38,22.85,24.98,Urea
+26.59,43.43,16.25,Sandy Loam,Urad Bean,1.61,21.52,21.17,0-20-20
+13.34,58.13,23.95,Loamy,Rapeseed & Mustard,75.81,49.59,37.06,Urea
+21.81,56.21,25.02,Sandy Loam,Coriander,25.46,21.96,20.91,MOP
+20.42,53.8,18.98,Loamy,Peas & Beans (Pulses),3.73,17.85,18.07,DAP
+26.21,42.12,16.69,Loamy,Cowpea (Lobia),0.37,16.52,15.96,0-20-20
+17.21,45.91,42.6,Loam,Cotton (Lint),22.13,18.52,37.14,DAP
+24.1,56.95,23.02,Clay Loam,Onion,110.72,59.41,58.75,MOP
+22.95,74.24,28.32,Loamy,Ginger,111.87,64.63,64.14,Urea
+22.4,52.46,17.89,Sandy Loam,Peas & Beans (Pulses),4.27,19.43,18.44,DAP
+17.24,52.92,18.15,Loamy,Barley,38.52,24.21,22.51,Urea
+24.93,67.05,28.25,Loamy,Coriander,29.15,24.72,22.99,Urea
+16.55,49.9,19.96,Loamy,Garlic,48.86,50.75,24.09,Urea
+17.93,49.81,17.83,Loamy,Onion,92.87,46.81,45.35,Urea
+18.8,60.67,22.26,Sandy Loam,Wheat,92.4,30.09,31.78,DAP
+28.69,58.95,24.48,Loamy,Gram (Chickpea),17.85,29.51,28.95,Urea
+38.42,60.29,37.36,Sand,Dry Chillies,5.7,8.37,17.87,MOP
+21.88,41.67,22.9,Clay Loam,Maize (Fodder),62.45,34.27,31.09,25-10-15
+18.08,51.78,19.66,Loamy,Garlic,51.91,48.19,25.65,Urea
+33.12,47.41,17.91,Sandy Loam,Safflower,46.26,29.72,27.97,MOP
+21.96,37.45,11.73,Sandy Loam,Ragi (Finger Millet),22.02,15.37,16.94,20-15-15
+20.04,71.29,26.06,Red Loam,Turmeric,102.99,51.66,53.75,100-50-50
+14.54,45.79,18.19,Sandy Loam,Garlic,45.41,45.5,23.73,20-10-20
+25.78,56.24,20.11,Loamy,Peas & Beans (Pulses),6.3,21.43,21.28,MOP
+32.46,45.61,20.09,Loam,Jowar,53.4,27.18,26.43,DAP
+15.21,43.49,16.4,Red Loam,Peas & Beans (Pulses),2.48,17.05,15.44,0-20-20
+38.53,49.12,48.57,Clay,Ginger,24.32,10.63,27.01,MOP
+14.55,51.53,19.43,Loamy,Wheat,68.78,29.78,27.79,Urea
+29.56,65.56,23.84,Loamy,Sunflower,76.46,48.38,47.37,MOP
+23.59,69.28,29.37,Sandy Loam,Coriander,28.4,23.71,24.64,Urea
+36.61,30.65,12.77,Clay,Urad Bean,16.57,8.22,27.96,MOP
+24.66,49.81,19.11,Sandy Loam,Sunflower,58.13,36.09,35.42,Urea
+30.7,55.51,20.12,Red Loam,Urad Bean,6.59,25.49,26.71,MOP
+15.47,52.7,17.81,Loamy,Barley,38.53,22.84,24.01,Urea
+29.37,48.54,18.01,Sandy Loam,Urad (Black Gram),4.63,22.97,24.36,DAP
+15.27,42.94,16.73,Loamy,Peas & Beans (Pulses),0.75,16.34,17.2,0-20-20
+29.91,54.95,13.45,Clay,Moong (Green Gram),6.46,6.19,40.84,Urea
+37.14,31.31,41.43,Loamy,Linseed (Flax),16.83,31.14,20.46,20-30-20
+10.25,41.41,15.83,Sandy Loam,Garlic,41.72,41.82,21.16,15-15-15
+29.32,60.9,23.82,Loamy,Arhar/Tur,7.99,18.47,30.59,DAP
+27.29,42.62,15.96,Red Loam,Urad (Black Gram),1.76,20.84,20.38,0-20-20
+32.53,36.01,19.26,Loamy Sand,Bajra,46.01,24.84,24.41,Urea
+11.95,42.11,16.05,Loamy,Linseed (Flax),21.58,16.3,26.46,20-30-20
+25.56,39.86,13.12,Loamy,Safflower,35.53,22.64,24.62,Urea
+22.15,43.63,15.09,Clay Loam,Sunflower,42.06,32.35,34.72,20-10-10
+25.77,78.43,29.02,Red Loam,Turmeric,127.73,60.96,58.1,DAP
+12.1,51.37,21.66,Sandy Loam,Potato,126.07,60.19,44.65,20-20-20
+36.84,79.66,49.24,Loamy,Coriander,29.29,10.02,15.56,MOP
+29.32,42.73,17.37,Red Loam,Safflower,40.01,25.67,26.9,DAP
+31.4,33.44,16.68,Loamy Sand,Bajra,42.27,21.06,20.39,40-20-20
+38.22,31.11,14.43,Clay,Urad Bean,24.2,10.33,24.96,DAP
+20.96,42.8,17.46,Clay Loam,Gram (Chickpea),4.29,21.09,21.67,0-20-20
+22.75,76.78,28.04,Red Loam,Ginger,113.5,64.51,66.0,Urea
+23.09,62.62,23.07,Sandy Loam,Wheat,106.67,39.43,37.67,MOP
+26.14,42.05,16.25,Red Clay Loam,Dry Chillies,41.35,40.46,31.68,40-30-40
+20.0,53.87,21.63,Sandy Loam,Garlic,52.52,55.65,27.6,DAP
+27.36,83.11,31.81,Sandy Loam,Ginger,138.88,72.11,72.57,MOP
+30.8,60.94,20.35,Loamy,Moong (Green Gram),5.26,26.73,26.76,MOP
+31.13,59.46,23.74,Sandy,Groundnut,18.11,56.33,37.73,Urea
+27.83,43.63,19.59,Sandy Loam,Jowar,46.94,22.88,23.59,Urea
+29.29,56.94,23.9,Sandy Loam,Gram (Chickpea),15.1,28.91,29.1,Urea
+24.9,65.13,23.71,Sandy Loam,Barley,46.24,29.22,27.61,MOP
+31.03,40.56,16.39,Sandy Loam,Safflower,43.35,25.9,25.9,DAP
+27.98,79.59,25.24,Sandy Loam,Garlic,29.7,27.41,17.04,20-10-20
+26.34,47.44,15.45,Red Loam,Ragi (Finger Millet),27.09,20.01,20.86,SSP
+14.58,53.75,18.41,Loamy,Wheat,74.3,28.62,27.63,Urea
+26.48,79.92,30.19,Sandy Loam,Jowar,14.5,11.73,29.3,Urea
+29.32,40.16,20.05,Sandy Loam,Cotton (Lint),79.58,80.26,48.85,Urea
+25.47,33.74,16.79,Clay Loam,Cotton (Lint),67.75,61.23,41.44,30-15-15
+24.41,79.98,29.11,Red Loam,Ginger,122.44,71.32,70.89,DAP
+18.55,57.19,20.56,Sandy Loam,Barley,44.02,27.0,25.36,DAP
+20.87,89.03,17.04,Sand,Coriander,9.74,20.79,42.46,MOP
+29.84,76.75,34.52,Silty Loam,Rice,122.38,45.65,48.35,Urea
+26.57,42.85,15.46,Sandy Loam,Dry Chillies,41.01,43.6,31.45,40-30-40
+23.43,40.01,23.11,Loam,Maize (Grain),82.94,46.81,44.38,30-10-20
+21.02,58.87,21.46,Sandy Loam,Masoor (Red Lentil),7.06,21.19,22.44,MOP
+28.26,47.0,17.75,Loamy,Dry Chillies,45.55,44.61,34.0,60-40-60
+29.48,46.85,19.83,Loamy Sand,Bajra,5.09,11.85,36.64,MOP
+20.8,52.89,18.58,Loamy,Peas & Beans (Pulses),4.32,19.91,17.65,DAP
+34.22,88.74,37.74,Alluvial,Rice,146.63,57.88,55.58,MOP
+31.07,60.43,21.98,Red Loam,Urad Bean,5.56,27.34,25.8,MOP
+33.87,79.99,17.07,Loamy,Barley,18.48,12.99,24.15,20-20-20
+24.11,36.35,32.94,Loamy,Potato,13.74,9.44,35.36,MOP
+31.2,62.49,21.49,Loamy,Moong (Green Gram),5.14,27.09,27.49,MOP
+28.32,53.33,19.64,Sandy Loam,Cowpea (Lobia),3.86,18.41,17.66,DAP
+19.67,49.28,17.9,Loamy,Peas & Beans (Pulses),4.26,19.28,19.22,DAP
+31.3,54.29,22.67,Loamy,Dry Chillies,55.28,55.01,36.09,DAP
+31.18,62.45,27.81,Loam,Maize (Grain),100.19,58.03,53.45,DAP
+20.5,33.61,11.45,Red Loam,Ragi (Finger Millet),20.29,15.19,17.14,20-15-15
+20.42,47.02,20.87,Loam,Maize (Grain),81.7,43.95,41.68,30-10-20
+12.68,40.77,16.24,Sandy Loam,Barley,31.75,21.67,21.55,20-20-20
+23.26,76.3,27.99,Red Loam,Turmeric,115.72,57.37,56.8,Urea
+33.63,89.14,38.54,Silty Loam,Rice,149.98,55.63,58.03,MOP
+28.13,62.62,24.4,Red Loam,Peas & Beans (Pulses),8.2,22.79,24.35,Urea
+28.5,56.55,18.73,Loamy,Moong (Green Gram),4.42,22.89,24.68,DAP
+28.57,54.89,17.74,Loamy,Urad Bean,4.16,24.17,24.71,DAP
+15.16,62.42,20.79,Loamy,Linseed (Flax),27.48,22.23,30.4,MOP
+31.65,67.92,35.33,Clay Loam,Barley,2.57,30.18,33.27,20-20-20
+30.67,61.01,20.24,Loamy,Urad (Black Gram),7.1,25.67,26.32,MOP
+36.86,40.36,20.85,Loamy Sand,Bajra,53.52,25.65,25.67,DAP
+31.08,81.65,37.43,Alluvial,Sugarcane,208.08,221.01,61.32,SSP
+26.03,59.11,20.97,Clay Loam,Sunflower,63.5,42.63,43.44,DAP
+16.24,51.3,19.92,Clay Loam,Garlic,48.86,51.32,24.86,Urea
+35.87,51.22,41.57,Loamy,Gram (Chickpea),24.55,9.71,37.05,0-20-20
+28.5,63.99,24.32,Red Loam,Peas & Beans (Pulses),9.9,23.41,23.06,Urea
+14.85,55.3,23.05,Sandy Loam,Potato,133.21,69.63,48.7,Urea
+25.23,30.69,15.16,Loam,Cotton (Lint),61.47,67.02,42.52,30-15-15
+29.8,59.11,23.38,Loamy,Groundnut,17.0,57.48,38.87,Urea
+26.98,72.92,30.28,Alluvial,Rice,109.7,41.92,40.81,40-20-20
+25.89,56.15,49.78,Sandy Loam,Urad (Black Gram),9.04,15.15,37.1,MOP
+20.4,32.2,10.55,Loamy,Safflower,32.1,20.05,20.43,30-20-20
+26.02,51.79,15.94,Sandy Loam,Ragi (Finger Millet),26.24,20.49,21.09,SSP
+12.1,54.93,20.26,Sandy Loam,Potato,125.6,60.16,44.64,20-20-20
+20.4,32.71,42.83,Sand,Maize (Fodder),18.86,27.77,31.17,DAP
+28.37,54.09,19.22,Loamy,Ragi (Finger Millet),29.79,23.34,22.93,MOP
+20.4,63.43,32.15,Alluvial,Sugarcane,170.45,166.31,45.74,40-20-20
+14.35,48.13,19.84,Clay Loam,Wheat,77.57,26.28,27.75,Urea
+21.74,65.46,32.29,Sandy Loam,Sugarcane,157.98,161.71,40.82,40-20-20
+16.74,41.48,17.48,Loamy,Peas & Beans (Pulses),1.14,15.08,16.99,0-20-20
+30.78,41.25,15.2,Sandy Loam,Safflower,41.14,25.14,25.21,DAP
+34.67,65.23,22.67,Red Loam,Urad (Black Gram),9.65,28.41,28.57,Urea
+37.91,45.9,24.48,Sandy,Bajra,59.55,28.97,27.9,MOP
+30.09,63.3,20.22,Loamy,Moong (Green Gram),6.22,26.83,25.44,MOP
+26.1,83.32,31.18,Red Loam,Turmeric,130.8,62.91,62.55,MOP
+26.45,35.72,12.87,Loamy,Safflower,37.05,22.61,24.45,Urea
+21.83,43.05,21.04,Loam,Maize (Grain),82.2,47.06,42.89,30-10-20
+10.0,40.38,17.11,Sandy Loam,Barley,31.18,20.27,21.01,20-20-20
+28.06,36.34,17.56,Sandy Loam,Cotton (Lint),70.49,70.69,47.07,20-20-20
+11.41,41.26,16.29,Sandy Loam,Barley,30.6,21.85,21.33,20-20-20
+29.79,87.82,34.05,Loamy,Ginger,144.03,77.18,79.24,Organic compost
+16.08,41.02,15.65,Red Loam,Peas & Beans (Pulses),0.83,15.8,17.42,0-20-20
+19.25,64.47,31.45,Loamy,Coriander,2.57,7.7,32.23,15-15-15
+27.76,58.03,29.34,Clay Loam,Maize (Grain),109.94,55.53,53.35,DAP
+23.59,44.27,14.53,Loamy,Ragi (Finger Millet),23.59,17.59,19.44,Urea
+33.71,62.55,23.95,Loamy,Urad (Black Gram),8.85,28.22,28.13,Urea
+38.96,57.14,41.49,Clay Loam,Maize (Fodder),20.03,24.4,30.39,Urea
+21.8,70.26,26.6,Sandy Loam,Turmeric,105.82,52.82,50.85,100-50-50
+25.87,51.87,22.66,Loamy,Arhar/Tur,3.93,15.71,25.7,20-40-20
+20.54,72.19,25.64,Sandy Loam,Turmeric,108.22,53.54,50.96,100-50-50
+12.88,55.0,18.17,Sandy Loam,Linseed (Flax),23.03,19.77,29.12,DAP
+27.39,69.86,32.25,Loamy,Groundnut,24.13,12.51,44.89,0-40-40
+27.08,72.18,31.78,Alluvial,Rice,100.68,43.15,44.5,40-20-20
+26.75,62.74,24.0,Loamy,Peas & Beans (Pulses),8.14,23.93,23.05,Urea
+26.98,85.34,31.18,Loamy,Turmeric,135.52,63.1,63.46,MOP
+21.74,71.89,25.03,Loamy,Ginger,103.7,63.9,61.23,120-60-60
+31.78,31.1,16.08,Loamy Sand,Bajra,43.62,21.79,20.49,40-20-20
+22.77,69.86,22.89,Sandy Loam,Masoor (Red Lentil),8.22,23.17,24.66,Urea
+24.14,48.67,45.07,Sandy Loam,Ragi (Finger Millet),10.02,15.6,30.69,20-15-15
+39.88,84.63,28.47,Clay,Cotton (Lint),14.67,6.38,25.89,DAP
+27.29,51.53,15.0,Red Loam,Ragi (Finger Millet),25.61,22.48,21.01,SSP
+15.76,42.58,20.94,Sandy Loam,Coriander,20.43,16.15,16.49,15-15-15
+20.18,60.63,27.16,Sandy Loam,Coriander,25.89,22.29,21.32,MOP
+17.72,48.53,17.72,Loamy,Onion,96.85,46.37,45.78,Urea
+16.0,45.19,15.72,Red Loam,Masoor (Red Lentil),2.13,15.93,16.52,0-20-20
+34.85,64.35,22.8,Loamy,Cowpea (Lobia),8.9,22.8,23.11,Compound NPK (0-20-20)
+23.21,48.11,19.78,Clay Loam,Gram (Chickpea),6.84,23.82,22.52,DAP
+31.48,48.92,19.96,Sandy Loam,Safflower,49.66,27.8,28.55,MOP
+15.09,55.04,46.4,Sand,Gram (Chickpea),2.2,9.6,35.83,DAP
+35.15,40.69,21.61,Sandy Loam,Bajra,54.76,25.47,27.34,DAP
+25.01,53.79,20.2,Loamy,Arhar/Tur,0.35,15.01,27.35,20-40-20
+27.99,79.34,32.6,Silty Loam,Rice,119.67,48.78,47.16,Urea
+27.78,48.35,18.38,Red Loam,Urad Bean,3.71,24.51,23.08,DAP
+21.86,69.21,24.03,Loamy,Barley,47.76,29.28,29.24,MOP
+31.04,83.29,36.03,Clay Loam,Rice,136.56,52.11,53.12,DAP
+21.26,30.25,10.56,Red Loam,Ragi (Finger Millet),20.74,15.47,16.18,20-15-15
+32.24,59.47,21.72,Red Loam,Urad (Black Gram),5.62,26.76,26.94,MOP
+22.27,32.6,11.83,Sandy Loam,Ragi (Finger Millet),21.43,16.79,16.06,20-15-15
+18.67,42.32,16.28,Sandy Loam,Peas & Beans (Pulses),2.06,17.26,15.4,0-20-20
+31.58,42.76,38.64,Clay,Cotton (Lint),14.34,12.55,44.36,MOP
+25.8,36.78,14.82,Loamy,Safflower,36.31,23.76,22.88,Urea
+26.75,46.97,18.88,Sandy Loam,Groundnut,8.88,45.46,34.67,DAP
+21.49,60.75,26.02,Sandy Loam,Coriander,27.37,20.62,22.4,MOP
+14.53,58.19,24.72,Sandy Loam,Potato,129.46,68.95,49.52,Urea
+30.15,30.29,15.34,Sandy,Bajra,40.11,21.96,21.28,40-20-20
+10.61,46.94,15.43,Sandy Loam,Linseed (Flax),20.85,15.46,26.61,20-30-20
+28.91,61.14,29.1,Sandy Loam,Maize (Fodder),81.65,42.5,35.89,DAP
+27.82,49.02,19.65,Loamy,Urad (Black Gram),2.97,23.39,24.41,DAP
+25.42,52.12,16.36,Sandy Loam,Moong (Green Gram),0.56,21.95,20.48,0-20-20
+20.62,41.52,15.53,Clay Loam,Gram (Chickpea),1.55,20.95,20.05,0-20-20
+29.64,50.91,18.36,Loamy,Urad (Black Gram),3.42,24.37,23.54,DAP
+23.85,67.01,29.67,Sandy Loam,Coriander,29.52,24.0,22.73,Urea
+24.17,54.75,21.73,Sandy Loam,Arhar/Tur,5.84,17.83,26.45,20-40-20
+30.3,56.86,27.59,Clay Loam,Maize (Fodder),80.51,42.19,36.2,DAP
+22.84,57.25,23.54,Clay Loam,Onion,119.05,55.95,55.3,MOP
+18.32,48.36,23.03,Sandy Loam,Coriander,24.54,17.81,19.27,DAP
+15.66,44.69,17.3,Red Loam,Peas & Beans (Pulses),2.43,16.16,17.34,0-20-20
+29.94,59.55,30.88,Clay Loam,Maize (Fodder),75.34,41.05,36.71,DAP
+29.82,53.41,19.17,Sandy Loam,Cowpea (Lobia),4.13,18.41,18.74,DAP
+29.41,51.85,19.25,Red Loam,Urad (Black Gram),4.28,23.37,24.71,DAP
+13.85,48.56,17.51,Clay Loam,Barley,38.21,23.4,22.54,Urea
+15.71,56.54,23.75,Sandy Loam,Potato,134.02,66.56,46.43,Urea
+25.42,51.68,23.14,Sandy Loam,Arhar/Tur,0.1,17.95,26.27,20-40-20
+30.72,78.8,37.05,Loamy,Sugarcane,218.27,217.65,62.66,SSP
+31.97,76.43,37.72,Loamy,Rapeseed & Mustard,13.04,28.8,29.53,DAP
+15.53,63.39,25.39,Clay Loam,Rapeseed & Mustard,80.82,54.51,42.59,DAP
+27.56,49.27,19.63,Loamy,Urad (Black Gram),3.35,22.9,24.97,DAP
+27.3,43.86,16.97,Sandy Loam,Urad Bean,1.2,22.5,20.28,0-20-20
+25.94,51.35,15.73,Sandy Loam,Ragi (Finger Millet),27.22,21.4,20.58,SSP
+31.97,59.2,23.57,Loamy,Groundnut,16.45,59.2,37.62,Urea
+25.0,66.75,22.98,Red Loam,Masoor (Red Lentil),8.54,22.66,24.04,Urea
+32.71,69.87,45.95,Clay,Maize (Grain),7.92,19.85,35.0,MOP
+33.31,65.3,23.97,Sandy Loam,Cowpea (Lobia),8.73,23.83,23.8,Compound NPK (0-20-20)
+18.05,49.38,32.34,Sand,Onion,27.74,12.11,37.78,15-15-15
+28.02,75.28,34.25,Clay Loam,Rice,121.7,45.81,47.78,Urea
+18.36,65.93,27.57,Clay Loam,Potato,147.76,79.8,58.81,MOP
+30.52,55.64,31.03,Loam,Maize (Grain),105.95,59.83,51.3,DAP
+37.62,70.73,25.45,Sand,Linseed (Flax),20.6,11.63,22.93,MOP
+16.21,62.25,25.36,Loamy,Potato,139.76,71.7,50.93,SSP
+28.55,47.59,19.26,Sandy Loam,Urad Bean,3.04,24.25,23.76,DAP
+27.45,35.99,17.12,Sandy Loam,Cotton (Lint),75.95,70.59,45.5,20-20-20
+23.7,75.07,28.82,Loamy,Ginger,115.61,64.42,66.23,Urea
+32.52,42.79,21.84,Loam,Cotton (Lint),86.72,87.32,53.14,DAP
+11.68,47.47,16.74,Clay Loam,Barley,33.12,21.4,20.88,20-20-20
+37.53,33.47,28.07,Clay,Ginger,21.03,6.53,38.99,MOP
+20.74,46.85,23.52,Clay Loam,Maize (Fodder),65.47,31.44,32.23,25-10-15
+28.06,62.51,42.14,Sand,Wheat,19.78,32.04,18.18,MOP
+31.89,65.77,27.93,Loamy,Arhar/Tur,18.37,23.5,33.43,MOP
+34.48,65.31,23.39,Loamy,Moong (Green Gram),9.12,28.91,27.69,Urea
+27.2,64.16,18.2,Clay,Groundnut,4.42,24.27,38.08,0-40-40
+21.41,65.26,24.67,Sandy Loam,Barley,49.27,29.24,29.1,MOP
+18.79,50.93,23.81,Sandy Loam,Coriander,22.5,18.44,18.47,DAP
+14.05,53.02,19.23,Clay Loam,Barley,35.49,24.07,22.88,Urea
+29.53,49.84,19.62,Red Loam,Urad Bean,3.03,22.65,24.22,DAP
+28.48,47.54,18.05,Sandy Loam,Dry Chillies,44.26,47.84,33.16,60-40-60
+34.5,67.53,24.2,Sandy Loam,Cowpea (Lobia),8.69,23.2,23.07,Compound NPK (0-20-20)
+26.3,41.87,16.32,Sandy Loam,Urad Bean,1.95,21.85,20.93,0-20-20
+21.7,64.4,24.08,Sandy Loam,Barley,47.28,28.02,28.78,MOP
+30.54,56.33,23.66,Loamy,Groundnut,15.78,55.65,39.08,Urea
+32.67,88.62,39.52,Black Soil,Sugarcane,242.25,230.91,77.45,MOP
+18.3,58.38,28.37,Sandy Loam,Jowar,8.74,5.83,15.5,DAP
+27.97,62.02,26.46,Sandy Loam,Arhar/Tur,8.08,18.77,31.46,DAP
+28.54,88.69,33.92,Sandy Loam,Ginger,148.42,78.7,77.52,Organic compost
+28.44,57.01,18.84,Loamy,Moong (Green Gram),2.83,24.25,23.68,DAP
+19.1,68.42,23.36,Sandy Loam,Linseed (Flax),29.34,23.72,33.77,Urea
+32.02,69.72,32.85,Sandy Loam,Maize (Grain),113.88,67.38,59.16,MOP
+28.64,47.9,18.84,Sandy Loam,Dry Chillies,45.47,44.29,33.55,60-40-60
+23.71,44.53,23.33,Loam,Maize (Fodder),60.06,31.14,31.86,25-10-15
+25.11,44.14,16.59,Loamy,Urad Bean,1.35,20.54,20.94,0-20-20
+33.91,64.73,24.97,Loamy,Urad (Black Gram),9.28,27.99,28.26,Urea
+28.04,53.1,19.65,Loamy,Urad (Black Gram),4.24,22.61,24.65,DAP
+10.13,45.25,15.57,Clay Loam,Wheat,55.88,24.37,22.28,20-10-10
+27.63,55.78,18.51,Red Loam,Ragi (Finger Millet),29.06,24.93,24.09,MOP
+19.94,50.56,19.94,Sandy Loam,Peas & Beans (Pulses),4.11,19.69,18.97,DAP
+35.4,32.11,19.29,Clay,Urad Bean,6.71,20.34,36.16,DAP
+13.34,47.62,18.67,Clay Loam,Garlic,44.49,45.14,22.38,20-10-20
+27.39,40.24,15.23,Red Loam,Urad (Black Gram),0.8,22.42,20.97,0-20-20
+26.46,50.85,15.2,Sandy Loam,Moong (Green Gram),1.2,21.17,20.12,0-20-20
+25.96,50.62,15.62,Loamy,Ragi (Finger Millet),27.37,20.55,20.63,SSP
+20.8,44.58,20.38,Clay Loam,Maize (Grain),81.59,42.37,40.1,30-10-20
+23.12,68.11,24.0,Sandy Loam,Masoor (Red Lentil),8.3,22.86,24.55,Urea
+28.09,50.2,19.85,Loamy,Urad (Black Gram),4.12,23.9,23.63,DAP
+16.0,40.53,17.11,Sandy Loam,Masoor (Red Lentil),1.53,16.21,16.63,0-20-20
+27.38,38.68,11.99,Loamy,Arhar/Tur,25.52,26.74,36.79,MOP
+26.79,48.35,19.24,Sandy,Groundnut,6.96,47.43,34.66,DAP
+23.25,44.5,20.34,Loam,Maize (Fodder),66.99,31.59,31.39,25-10-15
+23.44,44.69,17.19,Sandy Loam,Groundnut,3.64,44.1,32.16,0-40-40
+25.53,55.11,21.31,Sandy Loam,Peas & Beans (Pulses),6.75,20.61,22.38,MOP
+27.78,58.56,18.05,Red Loam,Moong (Green Gram),3.18,24.29,23.95,DAP
+22.65,63.2,22.77,Loamy,Barley,46.07,28.38,27.8,MOP
+27.12,60.11,24.68,Loamy,Arhar/Tur,13.2,20.7,30.44,DAP
+31.15,45.32,21.38,Loam,Jowar,54.37,27.28,26.73,DAP
+30.29,32.32,42.84,Sandy Loam,Garlic,3.66,12.01,41.65,Urea
+20.39,88.68,37.75,Loamy,Turmeric,20.85,30.7,41.71,Organic compost
+22.63,39.37,28.22,Sand,Dry Chillies,21.13,29.21,28.44,MOP
+38.89,52.72,12.0,Clay Loam,Rice,18.85,28.37,35.41,MOP
+23.66,59.12,22.64,Clay Loam,Onion,116.98,57.51,56.27,MOP
+28.37,53.88,20.63,Sandy Loam,Groundnut,12.82,51.68,36.48,MOP
+26.85,54.15,22.3,Loamy,Gram (Chickpea),11.3,26.65,25.98,MOP
+23.97,53.31,26.18,Sandy Loam,Bajra,27.1,22.34,36.74,DAP
+26.44,51.79,26.43,Sandy Loam,Maize (Fodder),70.27,35.16,34.39,Urea
+17.56,64.17,23.46,Loamy,Linseed (Flax),29.12,23.04,32.67,Urea
+20.37,62.34,25.58,Sandy Loam,Coriander,26.41,20.21,21.28,MOP
+27.9,50.07,42.26,Red Loam,Safflower,4.4,27.37,29.94,30-20-20
+10.04,42.19,16.46,Sandy Loam,Linseed (Flax),21.77,15.32,26.55,20-30-20
+25.7,51.52,15.62,Loamy,Moong (Green Gram),0.54,20.07,22.22,0-20-20
+19.14,68.12,27.88,Loamy,Potato,142.89,79.59,57.09,MOP
+18.84,50.27,20.5,Sandy Loam,Garlic,50.27,49.64,25.85,Urea
+17.7,69.3,22.96,Loamy,Linseed (Flax),29.66,22.83,33.67,Urea
+28.32,85.52,13.0,Sand,Urad Bean,29.77,10.4,35.53,MOP
+28.71,48.62,19.69,Sandy Loam,Urad Bean,3.94,24.15,22.66,DAP
+31.5,47.77,17.69,Loamy,Safflower,48.09,28.71,27.67,MOP
+16.07,57.47,21.65,Loamy,Linseed (Flax),26.69,21.27,31.34,MOP
+26.74,53.39,24.27,Sandy Loam,Maize (Fodder),69.07,35.76,33.18,Urea
+14.75,57.14,23.3,Clay Loam,Potato,133.79,67.65,48.48,Urea
+31.99,55.34,20.75,Red Loam,Urad Bean,6.6,27.31,25.63,MOP
+26.57,85.93,31.24,Sandy Loam,Turmeric,135.33,65.89,65.7,MOP
+27.52,55.3,28.41,Clay Loam,Maize (Fodder),80.27,40.99,35.88,DAP
+14.87,44.52,17.58,Clay Loam,Garlic,45.82,46.26,22.15,20-10-20
+25.03,79.29,29.75,Sandy Loam,Turmeric,128.31,59.87,59.18,DAP
+28.79,62.2,26.45,Clay Loam,Arhar/Tur,11.6,20.37,31.04,DAP
+15.74,62.23,20.7,Loamy,Linseed (Flax),25.56,21.92,31.08,MOP
+26.31,52.49,22.05,Clay Loam,Gram (Chickpea),14.31,26.32,27.03,MOP
+27.17,68.81,24.96,Loamy,Peas & Beans (Pulses),8.91,22.54,23.03,Urea
+27.3,45.99,15.49,Red Loam,Urad Bean,0.85,20.33,21.78,0-20-20
+32.7,62.54,26.93,Loamy,Gram (Chickpea),20.56,20.96,35.28,MOP
+25.11,74.81,31.6,Silty Loam,Rice,100.46,42.86,41.89,40-20-20
+15.6,41.41,21.07,Sandy Loam,Coriander,22.27,15.29,15.7,15-15-15
+16.09,85.96,20.27,Sand,Peas & Beans (Pulses),10.37,6.12,33.13,Urea
+29.28,58.92,30.58,Sandy Loam,Maize (Fodder),75.7,41.61,37.17,DAP
+25.18,52.52,22.52,Loamy,Arhar/Tur,3.67,15.3,28.27,20-40-20
+25.39,47.71,18.23,Loamy,Groundnut,8.36,48.12,34.63,DAP
+28.93,36.44,18.1,Clay Loam,Cotton (Lint),73.99,75.1,47.16,20-20-20
+15.46,57.58,22.57,Sandy Loam,Potato,131.56,66.85,47.58,Urea
+24.87,73.04,32.84,Sandy Loam,Sugarcane,187.92,190.43,59.64,Urea
+31.49,58.07,25.98,Alluvial,Rice,27.0,32.9,25.24,40-20-20
+30.85,80.52,35.98,Silty Loam,Rice,128.56,54.33,53.33,DAP
+30.33,55.63,21.29,Sandy Loam,Cowpea (Lobia),5.09,21.26,21.81,MOP
+17.86,68.31,27.73,Loamy,Rapeseed & Mustard,91.18,57.32,49.05,MOP
+13.94,51.82,20.56,Sandy Loam,Potato,123.74,63.26,43.7,20-20-20
+20.98,37.53,21.49,Sandy Loam,Safflower,8.08,27.66,39.92,DAP
+23.62,30.75,12.36,Red Loam,Safflower,34.64,22.15,21.05,30-20-20
+34.81,65.7,22.7,Loamy,Cowpea (Lobia),9.33,23.69,23.1,Compound NPK (0-20-20)
+22.14,61.55,21.49,Sandy Loam,Masoor (Red Lentil),6.91,21.06,20.27,MOP
+14.05,42.69,15.23,Loamy,Onion,82.02,43.23,43.6,15-15-15
+22.73,69.11,27.92,Loamy,Coriander,29.84,24.02,23.65,Urea
+30.73,50.54,19.48,Red Clay Loam,Dry Chillies,48.83,49.01,35.08,Urea
+26.14,83.05,31.72,Red Loam,Ginger,132.59,73.83,74.16,MOP
+26.3,54.46,15.54,Loamy,Moong (Green Gram),1.96,21.48,22.18,0-20-20
+24.65,69.46,23.92,Sandy Loam,Masoor (Red Lentil),8.34,24.12,23.76,Urea
+27.61,38.17,17.62,Clay Loam,Jowar,45.68,23.52,24.82,Urea
+30.34,49.26,19.46,Sandy Loam,Dry Chillies,50.62,48.13,35.99,Urea
+19.12,68.21,29.8,Sandy Loam,Rapeseed & Mustard,91.7,56.38,48.28,MOP
+27.24,53.25,20.37,Loamy,Gram (Chickpea),12.39,25.02,26.83,MOP
+27.61,44.53,15.06,Loamy,Safflower,44.19,26.17,26.6,DAP
+28.92,51.9,19.55,Sandy Loam,Urad (Black Gram),3.92,22.78,24.31,DAP
+10.9,46.79,16.15,Loamy,Linseed (Flax),21.74,16.05,25.8,20-30-20
+25.43,79.67,29.71,Sandy Loam,Ginger,128.26,70.12,70.28,DAP
+18.52,50.41,20.55,Clay Loam,Garlic,49.24,50.43,25.94,Urea
+23.2,75.13,28.74,Loamy,Ginger,113.16,67.82,65.74,Urea
+13.32,57.9,24.52,Sandy Loam,Rapeseed & Mustard,76.36,45.78,37.1,Urea
+18.83,65.11,28.62,Loamy,Rapeseed & Mustard,95.46,55.26,46.98,MOP
+21.79,33.95,27.03,Sand,Wheat,13.98,7.99,32.49,DAP
+37.62,65.79,34.61,Clay,Rapeseed & Mustard,29.56,26.45,30.11,DAP
+23.46,68.33,24.42,Clay Loam,Barley,46.77,28.26,29.69,MOP
+21.78,31.07,12.18,Loamy,Ragi (Finger Millet),21.9,17.27,16.19,20-15-15
+24.54,61.16,20.06,Loamy,Peas & Beans (Pulses),6.11,20.88,21.78,MOP
+34.17,67.77,23.65,Loamy,Moong (Green Gram),7.96,27.72,29.51,Urea
+34.31,55.6,23.02,Sandy Loam,Jowar,57.77,29.42,27.52,MOP
+22.68,44.55,49.7,Clay,Coriander,8.19,10.87,24.03,DAP
+28.36,87.55,33.45,Sandy Loam,Turmeric,143.42,69.25,67.85,Organic compost
+21.26,78.03,12.25,Clay,Potato,1.5,22.28,24.88,20-20-20
+28.48,57.93,19.58,Loamy,Ragi (Finger Millet),28.22,24.89,23.49,MOP
+18.25,41.28,16.72,Loamy,Peas & Beans (Pulses),0.89,16.94,16.62,0-20-20
+32.27,62.25,21.32,Loamy,Cowpea (Lobia),6.61,21.85,20.08,MOP
+38.25,80.78,47.44,Sandy Loam,Bajra,26.69,16.17,29.06,DAP
+29.82,64.9,24.0,Loamy,Sunflower,73.79,49.56,49.68,MOP
+26.16,51.76,16.02,Red Loam,Moong (Green Gram),1.7,20.43,22.02,0-20-20
+12.56,51.77,21.56,Clay Loam,Potato,121.13,64.15,42.47,20-20-20
+14.43,50.27,18.74,Sandy Loam,Linseed (Flax),23.09,19.79,28.31,DAP
+14.95,57.21,23.85,Loamy,Rapeseed & Mustard,73.2,48.44,38.02,Urea
+14.82,57.13,23.46,Sandy Loam,Potato,132.28,69.61,49.49,Urea
+36.8,50.25,25.23,Sandy Loam,Bajra,29.47,23.3,36.04,Urea
+14.16,55.9,22.76,Sandy Loam,Potato,133.95,65.82,48.24,Urea
+21.88,70.9,25.52,Loamy,Ginger,105.81,60.89,63.4,120-60-60
+31.52,67.57,29.53,Loamy,Arhar/Tur,15.07,22.57,33.16,MOP
+28.22,76.25,35.31,Sandy Loam,Sugarcane,203.17,202.48,60.81,SSP
+12.92,55.16,22.57,Sandy Loam,Rapeseed & Mustard,73.05,47.39,36.11,Urea
+32.99,57.61,24.31,Sandy Loam,Jowar,56.37,29.47,29.2,MOP
+29.07,58.01,24.93,Clay Loam,Arhar/Tur,13.06,18.86,28.76,DAP
+36.58,49.43,49.38,Sandy,Groundnut,6.23,21.23,34.87,Urea
+19.54,52.05,19.43,Sandy Loam,Masoor (Red Lentil),3.63,17.77,18.16,DAP
+27.35,70.86,33.17,Loamy,Sugarcane,195.73,191.31,53.49,Urea
+21.68,53.18,18.96,Loamy,Peas & Beans (Pulses),3.36,17.83,18.4,DAP
+27.2,44.18,18.57,Sandy Loam,Dry Chillies,44.26,44.0,33.47,60-40-60
+12.95,56.42,24.51,Sandy Loam,Rapeseed & Mustard,71.35,45.4,37.35,Urea
+29.43,51.55,20.78,Red Clay Loam,Dry Chillies,48.43,48.01,35.5,Urea
+19.87,55.71,22.61,Sandy Loam,Garlic,52.34,54.87,26.65,DAP
+29.97,51.28,19.39,Red Loam,Urad (Black Gram),2.84,23.15,22.83,DAP
+24.6,47.58,18.97,Sandy Loam,Gram (Chickpea),9.32,24.53,23.99,DAP
+26.23,35.24,16.22,Clay Loam,Jowar,42.34,20.01,20.64,40-20-20
+24.37,32.07,44.53,Loamy,Gram (Chickpea),8.24,24.43,20.22,Urea
+28.06,53.97,17.52,Sandy Loam,Cowpea (Lobia),4.51,19.36,18.42,DAP
+19.95,47.38,35.21,Sandy Loam,Coriander,19.01,30.16,44.13,15-15-15
+25.86,31.61,15.09,Sandy Loam,Cotton (Lint),60.77,66.24,40.14,30-15-15
+28.5,54.74,18.76,Red Loam,Urad Bean,2.55,24.95,23.09,DAP
+21.87,45.41,20.64,Clay Loam,Maize (Fodder),60.6,34.42,30.92,25-10-15
+28.5,88.49,33.41,Sandy Loam,Turmeric,145.68,69.59,68.25,Organic compost
+31.05,60.39,21.43,Loamy,Cowpea (Lobia),5.35,22.27,21.7,MOP
+10.03,45.55,15.27,Sandy Loam,Wheat,57.34,21.55,24.14,20-10-10
+21.16,73.67,25.78,Red Loam,Turmeric,101.4,53.39,52.64,100-50-50
+31.99,58.08,21.94,Sandy Loam,Urad Bean,5.28,25.75,27.31,MOP
+20.01,30.34,10.29,Red Loam,Safflower,30.76,20.91,21.12,30-20-20
+28.76,60.6,28.07,Loam,Maize (Fodder),75.96,40.02,35.04,DAP
+34.58,65.9,24.9,Loamy,Urad (Black Gram),8.62,28.2,29.5,Urea
+38.89,62.18,40.53,Sandy Loam,Dry Chillies,6.82,11.57,39.62,40-30-40
+28.5,40.59,17.96,Clay Loam,Jowar,47.98,24.95,23.36,Urea
+33.52,49.64,24.29,Sandy Loam,Cotton (Lint),99.92,93.51,57.96,MOP
+20.1,42.55,21.72,Loam,Maize (Fodder),66.82,31.35,32.32,25-10-15
+32.77,67.85,24.47,Loamy,Moong (Green Gram),8.15,28.2,29.68,Urea
+15.76,62.43,22.21,Loamy,Linseed (Flax),26.1,21.43,31.63,MOP
+23.93,74.24,33.99,Sandy Loam,Sugarcane,197.3,189.84,58.33,Urea
+23.05,68.54,37.14,Sand,Dry Chillies,12.51,12.3,16.03,40-30-40
+19.01,60.34,21.37,Clay Loam,Barley,41.52,25.94,26.65,DAP
+32.09,85.72,37.86,Clay,Jowar,5.63,30.13,28.74,Urea
+27.28,33.44,16.5,Clay Loam,Jowar,43.38,21.42,21.83,40-20-20
+19.13,54.52,43.05,Sandy Loam,Onion,5.11,21.2,36.2,Urea
+31.64,57.68,20.04,Red Loam,Urad (Black Gram),6.95,26.29,26.11,MOP
+25.43,52.76,21.58,Sandy Loam,Arhar/Tur,2.63,16.52,27.87,20-40-20
+28.39,75.83,36.59,Sandy Loam,Sugarcane,206.78,203.66,64.59,SSP
+25.25,31.11,15.09,Sandy Loam,Cotton (Lint),65.39,65.6,40.97,30-15-15
+31.39,48.64,21.29,Loam,Jowar,52.29,25.4,26.06,DAP
+29.42,47.7,20.0,Sandy Loam,Urad (Black Gram),4.54,23.32,23.51,DAP
+20.65,61.24,20.07,Sandy Loam,Masoor (Red Lentil),5.82,22.28,21.21,MOP
+20.03,54.8,21.4,Loamy,Garlic,54.05,55.52,26.34,DAP
+36.06,44.56,20.81,Loamy Sand,Bajra,54.95,26.0,25.6,DAP
+23.56,67.03,23.81,Loamy,Wheat,119.43,36.6,35.97,MOP
+29.22,60.38,37.3,Clay,Cowpea (Lobia),23.02,9.73,21.73,MOP
+23.51,67.9,24.88,Loamy,Wheat,107.83,38.94,35.37,MOP
+21.41,72.52,25.29,Red Loam,Ginger,102.51,63.67,62.71,120-60-60
+20.66,47.37,21.1,Sandy Loam,Maize (Fodder),60.32,32.95,31.73,25-10-15
+33.65,63.27,24.67,Red Loam,Urad (Black Gram),7.63,29.94,29.88,Urea
+14.47,53.69,19.09,Sandy Loam,Wheat,70.17,25.09,29.3,Urea
+25.33,72.82,32.3,Clay,Sunflower,17.61,30.28,23.69,Urea
+31.66,58.49,20.65,Loamy,Urad (Black Gram),5.92,26.58,26.43,MOP
+17.82,49.03,19.56,Clay Loam,Garlic,50.18,51.55,25.39,Urea
+20.59,33.77,11.87,Sandy Loam,Safflower,33.48,22.29,22.08,30-20-20
+29.77,58.2,23.01,Loamy,Gram (Chickpea),16.48,29.07,29.11,Urea
+15.83,42.6,21.19,Loamy,Coriander,21.53,16.35,16.63,15-15-15
+33.1,45.46,19.46,Red Loam,Safflower,48.2,28.93,28.64,MOP
+38.09,82.65,26.08,Sand,Moong (Green Gram),8.39,17.24,25.12,Urea
+36.38,41.84,22.15,Loamy Sand,Bajra,50.01,26.57,26.8,DAP
+19.24,34.28,14.39,Sand,Linseed (Flax),29.64,34.6,33.01,MOP
+33.16,41.59,19.17,Silty Loam,Rice,28.76,32.35,24.47,MOP
+10.45,41.84,15.98,Loamy,Barley,31.81,21.49,20.09,20-20-20
+21.91,42.72,16.08,Sandy Loam,Sunflower,42.2,32.2,34.66,20-10-10
+34.54,89.83,39.64,Alluvial,Rice,139.3,59.09,55.6,MOP
+13.17,47.21,16.33,Sandy Loam,Barley,32.36,21.75,21.17,20-20-20
+29.06,70.42,27.78,Clay,Potato,24.0,14.26,33.93,20-20-20
+28.98,52.12,18.59,Sandy Loam,Cowpea (Lobia),2.57,19.41,19.83,DAP
+22.3,69.04,22.8,Loamy,Barley,48.44,27.61,29.13,MOP
+32.04,67.45,33.52,Clay Loam,Gram (Chickpea),0.39,11.71,25.73,Urea
+18.16,52.93,36.59,Clay,Moong (Green Gram),10.55,21.32,44.34,MOP
+25.12,30.35,16.45,Clay Loam,Cotton (Lint),66.82,62.67,40.36,30-15-15
+10.49,45.96,15.18,Sandy Loam,Linseed (Flax),20.8,15.14,25.97,20-30-20
+25.9,41.73,15.91,Red Clay Loam,Dry Chillies,43.0,41.01,31.94,40-30-40
+17.97,66.8,29.08,Sandy Loam,Rapeseed & Mustard,90.68,57.33,49.71,MOP
+31.01,55.38,21.72,Sandy Loam,Urad (Black Gram),6.12,26.25,27.02,MOP
+34.08,68.82,23.58,Sandy Loam,Urad Bean,9.01,29.22,29.95,Urea
+27.32,41.78,15.09,Loamy,Urad (Black Gram),1.42,20.81,20.48,0-20-20
+10.35,42.51,16.01,Loamy,Garlic,40.67,40.34,20.64,15-15-15
+33.91,69.54,24.09,Loamy,Moong (Green Gram),8.17,29.09,27.83,Urea
+14.82,52.92,18.8,Sandy Loam,Wheat,83.73,29.69,28.1,Urea
+18.29,66.39,23.96,Loamy,Linseed (Flax),29.24,22.63,33.22,Urea
+23.34,63.47,24.21,Sandy Loam,Wheat,104.82,39.23,37.77,MOP
+28.42,77.32,36.55,Loamy,Sugarcane,201.68,209.39,63.48,SSP
+23.94,53.51,26.08,Clay Loam,Maize (Grain),98.88,53.98,45.22,Urea
+20.57,55.87,20.05,Red Loam,Masoor (Red Lentil),6.13,22.03,21.85,MOP
+29.57,44.86,19.4,Clay Loam,Jowar,47.22,23.76,24.49,Urea
+22.71,61.51,20.35,Loamy,Peas & Beans (Pulses),5.63,21.48,22.24,MOP
+28.73,56.85,30.17,Loam,Maize (Grain),108.11,59.55,53.27,DAP
+23.34,30.9,29.57,Sand,Coriander,6.13,10.07,20.72,Urea
+33.95,63.01,24.43,Sandy Loam,Urad (Black Gram),7.55,29.92,29.77,Urea
+27.07,45.68,17.07,Red Clay Loam,Dry Chillies,46.96,44.4,32.41,60-40-60
+30.79,79.58,36.51,Alluvial,Sugarcane,209.97,202.81,65.84,SSP
+28.14,49.36,19.93,Loamy,Urad Bean,4.65,24.89,23.26,DAP
+27.07,46.7,15.42,Loamy,Urad Bean,2.08,21.35,21.83,0-20-20
+33.12,68.84,23.35,Red Loam,Urad (Black Gram),8.27,28.24,29.67,Urea
+25.84,54.93,21.79,Clay Loam,Arhar/Tur,3.11,16.14,27.97,20-40-20
+29.02,88.64,33.02,Red Loam,Turmeric,146.24,67.5,66.92,Organic compost
+31.12,49.5,21.13,Sandy Loam,Jowar,52.8,27.22,26.34,DAP
+26.73,72.07,30.61,Clay Loam,Rice,108.4,42.82,44.7,40-20-20
+26.68,43.62,15.1,Loamy,Cowpea (Lobia),1.75,15.87,16.29,0-20-20
+24.22,65.95,24.91,Loamy,Barley,50.0,29.17,29.74,MOP
+22.92,58.42,24.03,Sandy Loam,Onion,110.63,58.31,57.42,MOP
+17.7,57.3,20.84,Loamy,Wheat,98.93,31.68,31.54,DAP
+23.55,45.37,21.14,Clay Loam,Maize (Fodder),66.44,34.1,31.3,25-10-15
+30.36,57.59,20.9,Sandy Loam,Cowpea (Lobia),6.09,22.34,22.25,MOP
+19.22,58.76,15.68,Alluvial,Rice,29.14,10.94,31.25,40-20-20
+30.66,41.48,19.02,Sandy Loam,Cotton (Lint),76.55,83.51,48.8,Urea
+21.58,71.16,25.28,Loamy,Ginger,107.21,60.28,60.8,120-60-60
+25.44,47.49,16.35,Sandy Loam,Cowpea (Lobia),1.2,15.78,15.75,0-20-20
+31.2,54.77,21.62,Loamy,Dry Chillies,52.54,55.87,37.4,DAP
+30.3,59.62,22.13,Sandy Loam,Urad Bean,7.43,25.21,26.69,MOP
+28.81,64.92,23.08,Loamy,Sunflower,78.67,46.45,45.82,MOP
+23.77,48.22,25.29,Loam,Maize (Grain),91.82,50.25,46.84,Urea
+34.34,66.95,23.81,Sandy Loam,Moong (Green Gram),9.25,27.58,29.94,Urea
+16.34,43.39,15.81,Sandy Loam,Peas & Beans (Pulses),1.16,15.11,17.46,0-20-20
+17.56,39.34,38.84,Clay,Maize (Fodder),16.16,12.94,21.27,DAP
+26.08,52.46,16.66,Loamy,Moong (Green Gram),1.97,20.89,20.34,0-20-20
+14.18,53.71,19.79,Sandy Loam,Linseed (Flax),24.38,17.98,29.67,DAP
+27.32,36.08,17.31,Loam,Cotton (Lint),68.52,75.61,45.38,20-20-20
+33.36,89.66,11.11,Alluvial,Sugarcane,20.57,17.58,23.62,40-20-20
+15.66,42.85,20.34,Sandy Loam,Coriander,20.95,15.6,16.28,15-15-15
+12.65,55.97,24.81,Loamy,Rapeseed & Mustard,76.82,46.69,39.94,Urea
+27.17,40.87,16.27,Loamy,Urad Bean,2.13,22.07,21.42,0-20-20
+26.25,82.3,31.13,Red Loam,Ginger,132.92,73.47,72.69,MOP
+32.49,33.37,16.95,Sandy Loam,Bajra,41.7,22.44,21.62,40-20-20
+13.7,51.59,20.86,Loamy,Potato,123.01,61.95,40.75,20-20-20
+29.22,62.97,23.55,Sandy Loam,Arhar/Tur,6.74,19.52,29.79,DAP
+26.38,31.72,16.74,Sandy Loam,Jowar,43.45,20.01,20.57,40-20-20
+21.31,53.97,21.57,Clay Loam,Garlic,54.3,54.3,26.03,DAP
+26.83,86.65,42.09,Sandy Loam,Gram (Chickpea),19.47,15.66,33.5,Urea
+21.91,58.09,21.06,Red Loam,Masoor (Red Lentil),6.12,20.6,20.25,MOP
+21.65,61.47,20.88,Red Loam,Masoor (Red Lentil),7.18,22.47,20.62,MOP
+11.51,43.48,16.05,Loamy,Barley,34.5,20.66,20.78,20-20-20
+26.47,33.5,17.44,Sandy Loam,Jowar,40.63,20.87,20.89,40-20-20
+28.49,62.93,22.71,Sandy Loam,Sunflower,79.82,46.58,48.9,MOP
+22.11,40.47,16.35,Clay Loam,Gram (Chickpea),3.22,20.57,21.51,0-20-20
+26.92,40.56,16.05,Loamy,Dry Chillies,41.49,40.02,30.77,40-30-40
+30.22,62.38,21.12,Sandy Loam,Urad Bean,5.79,26.84,27.19,MOP
+17.17,61.39,26.37,Clay Loam,Potato,138.36,72.88,54.98,SSP
+24.47,57.05,43.34,Clay Loam,Barley,26.59,21.13,32.5,Urea
+16.9,56.88,21.99,Sandy Loam,Linseed (Flax),26.59,22.4,30.11,MOP
+20.67,55.84,27.38,Loamy,Coriander,26.02,21.35,22.09,MOP
+26.3,74.36,32.05,Silty Loam,Rice,110.93,40.1,43.67,40-20-20
+15.1,64.0,26.79,Loamy,Rapeseed & Mustard,89.4,50.8,44.51,DAP
+31.2,54.22,21.76,Loamy,Dry Chillies,55.5,55.1,36.34,DAP
+37.7,48.2,23.88,Loamy Sand,Bajra,58.43,27.84,29.28,MOP
+31.94,83.85,15.37,Sandy Loam,Arhar/Tur,25.1,10.89,44.71,20-40-20
+12.11,44.25,16.31,Sandy Loam,Onion,88.38,41.78,44.53,15-15-15
+33.36,54.11,23.11,Loam,Jowar,58.61,29.61,28.41,MOP
+27.16,68.84,35.2,Sandy Loam,Moong (Green Gram),13.43,12.24,41.42,MOP
+31.99,69.07,26.82,Sandy Loam,Arhar/Tur,18.86,21.87,31.86,MOP
+33.35,63.85,23.8,Sandy Loam,Urad Bean,8.85,28.76,28.1,Urea
+24.66,68.67,28.74,Sandy Loam,Coriander,28.34,23.78,24.29,Urea
+28.36,41.01,19.97,Sandy Loam,Jowar,46.54,23.16,23.96,Urea
+17.5,44.84,22.17,Sandy,Groundnut,3.92,32.82,31.11,Urea
+28.26,50.32,17.7,Sandy Loam,Cowpea (Lobia),4.35,17.68,19.06,DAP
+21.55,38.64,19.39,Sandy Loam,Garlic,26.15,30.35,21.18,20-10-20
+31.48,45.86,22.41,Sandy Loam,Cotton (Lint),88.72,84.88,54.55,DAP
+34.77,46.36,24.82,Loam,Cotton (Lint),95.35,99.36,56.07,MOP
+17.88,83.47,12.3,Loamy,Rapeseed & Mustard,5.13,5.97,23.52,MOP
+32.89,55.14,22.55,Loamy,Dry Chillies,52.45,52.21,36.33,DAP
+34.64,56.41,48.75,Sandy Loam,Arhar/Tur,28.93,14.97,39.92,MOP
+19.09,67.7,28.79,Clay Loam,Rapeseed & Mustard,91.93,55.41,45.98,MOP
+28.8,62.05,26.0,Loamy,Arhar/Tur,10.12,18.42,29.41,DAP
+32.84,37.1,18.05,Loamy Sand,Bajra,48.97,23.12,22.69,Urea
+29.49,55.42,24.08,Loamy,Gram (Chickpea),18.52,29.04,28.89,Urea
+16.3,66.16,18.86,Loamy,Groundnut,23.53,17.52,32.49,Urea
+25.84,39.36,13.57,Sandy Loam,Safflower,37.31,22.7,22.95,Urea
+27.86,60.26,29.51,Clay Loam,Maize (Grain),101.48,59.02,51.48,DAP
+24.02,45.47,19.5,Clay Loam,Gram (Chickpea),9.35,24.4,22.73,DAP
+27.12,48.59,25.83,Sandy Loam,Maize (Grain),97.61,49.76,48.79,Urea
+29.1,88.08,33.09,Sandy Loam,Ginger,142.94,77.32,79.75,Organic compost
+18.98,67.76,29.19,Loamy,Potato,145.69,77.81,57.9,MOP
+31.95,83.8,38.96,Alluvial,Sugarcane,227.65,244.3,74.65,MOP
+12.31,54.03,21.03,Loamy,Potato,127.13,63.21,42.07,20-20-20
+23.37,44.86,15.79,Sandy Loam,Groundnut,1.48,44.08,31.67,0-40-40
+25.99,45.37,17.17,Red Loam,Urad (Black Gram),0.97,22.09,20.94,0-20-20
+24.1,69.38,22.79,Loamy,Masoor (Red Lentil),9.57,24.9,24.1,Urea
+24.65,51.27,27.09,Clay Loam,Maize (Fodder),73.82,36.69,33.85,Urea
+27.92,76.45,34.56,Clay Loam,Rice,118.03,45.2,45.45,Urea
+16.69,64.98,25.11,Loamy,Potato,142.24,71.3,50.23,SSP
+26.26,32.99,16.24,Sandy Loam,Jowar,42.52,20.54,20.14,40-20-20
+23.37,68.79,29.95,Sandy Loam,Coriander,28.74,23.69,23.87,Urea
+29.83,59.33,24.13,Loamy,Groundnut,15.59,57.46,39.37,Urea
+29.04,55.48,30.36,Loam,Maize (Fodder),77.1,40.16,36.5,DAP
+20.63,56.12,27.33,Sandy Loam,Coriander,26.21,20.54,20.1,MOP
+22.41,60.2,21.01,Loamy,Masoor (Red Lentil),6.81,22.43,21.28,MOP
+30.89,63.03,20.22,Red Loam,Moong (Green Gram),6.52,26.01,25.38,MOP
+30.43,44.17,15.07,Sandy Loam,Safflower,44.7,25.97,27.47,DAP
+37.44,43.87,20.52,Sandy,Bajra,54.23,26.89,25.95,DAP
+25.65,31.26,16.76,Clay Loam,Cotton (Lint),60.41,62.08,41.88,30-15-15
+30.67,48.76,19.1,Sandy Loam,Dry Chillies,48.31,51.14,34.49,Urea
+26.35,51.84,21.94,Sandy Loam,Arhar/Tur,6.33,15.41,25.66,20-40-20
+26.73,30.26,17.04,Clay Loam,Jowar,40.65,22.31,21.86,40-20-20
+36.29,73.88,42.39,Clay,Potato,18.3,34.8,27.21,Urea
+19.14,51.54,19.56,Red Loam,Masoor (Red Lentil),3.12,17.79,17.85,DAP
+22.9,68.53,22.51,Clay Loam,Barley,45.25,28.29,29.44,MOP
+15.99,42.97,15.18,Loamy,Masoor (Red Lentil),0.26,15.17,15.16,0-20-20
+27.5,44.21,17.64,Loamy,Dry Chillies,46.2,47.36,33.39,60-40-60
+28.52,81.94,36.66,Loamy,Sugarcane,207.72,210.68,66.99,SSP
+21.91,37.05,10.13,Sandy Loam,Ragi (Finger Millet),21.07,15.74,17.44,20-15-15
+26.31,39.82,14.7,Loamy,Safflower,38.5,24.29,23.18,Urea
+30.16,64.89,41.89,Sandy Loam,Cotton (Lint),23.56,22.29,42.24,DAP
+12.67,43.1,15.09,Loamy,Garlic,41.46,41.29,21.43,15-15-15
+22.46,75.22,27.19,Sandy Loam,Turmeric,110.06,54.01,56.69,Urea
+30.57,67.45,28.4,Loamy,Arhar/Tur,17.66,24.46,32.15,MOP
+14.12,56.09,23.63,Sandy Loam,Potato,132.54,65.31,47.78,Urea
+19.25,53.1,18.24,Red Loam,Peas & Beans (Pulses),3.19,18.33,18.64,DAP
+32.75,38.32,19.01,Loamy Sand,Bajra,49.12,24.89,24.06,Urea
+22.53,67.01,35.48,Loamy,Sugarcane,16.5,11.27,27.86,SSP
+20.44,71.14,26.19,Sandy Loam,Ginger,103.42,62.36,62.75,120-60-60
+26.12,63.02,40.77,Sandy Loam,Barley,8.44,33.0,16.58,Urea
+33.03,64.8,24.03,Sandy Loam,Cowpea (Lobia),9.93,23.03,24.07,Compound NPK (0-20-20)
+27.7,44.77,17.48,Sandy Loam,Safflower,41.39,26.79,27.33,DAP
+10.6,51.1,21.05,Clay Loam,Rapeseed & Mustard,63.67,41.65,34.97,30-15-20
+29.2,52.72,20.35,Loamy,Groundnut,12.04,54.09,36.55,MOP
+18.29,83.84,14.57,Clay,Peas & Beans (Pulses),0.92,11.67,31.09,0-20-20
+18.49,43.51,16.64,Loamy,Peas & Beans (Pulses),0.95,15.86,16.91,0-20-20
+19.08,68.29,28.02,Clay Loam,Rapeseed & Mustard,98.83,57.85,45.06,MOP
+18.45,60.55,22.25,Clay Loam,Wheat,91.07,34.94,30.67,DAP
+29.45,65.55,23.37,Sandy Loam,Sunflower,74.34,48.84,49.81,MOP
+11.78,53.1,20.22,Loamy,Rapeseed & Mustard,60.17,41.7,32.19,30-15-20
+25.39,50.73,21.73,Sandy Loam,Gram (Chickpea),14.86,25.38,26.34,MOP
+12.13,44.89,16.46,Clay Loam,Barley,33.92,22.17,20.68,20-20-20
+31.74,57.46,20.61,Red Loam,Urad (Black Gram),5.63,25.94,26.18,MOP
+15.88,53.81,18.51,Clay Loam,Barley,38.35,24.13,24.81,Urea
+21.48,45.2,23.57,Clay Loam,Maize (Grain),86.17,44.57,44.26,30-10-20
+22.8,43.98,14.52,Red Loam,Ragi (Finger Millet),23.15,19.75,18.92,Urea
+27.97,53.7,21.37,Loamy,Groundnut,14.39,50.69,37.19,MOP
+26.46,82.77,31.52,Sandy Loam,Turmeric,134.66,64.53,63.51,MOP
+15.95,57.65,21.62,Loamy,Linseed (Flax),26.03,21.11,31.14,MOP
+30.08,44.29,16.52,Sandy Loam,Coriander,27.45,14.46,28.2,DAP
+26.05,50.59,24.52,Sandy Loam,Maize (Fodder),72.94,39.7,33.08,Urea
+39.21,34.0,36.34,Loamy,Groundnut,15.22,33.99,35.7,0-40-40
+30.79,84.83,17.52,Sand,Cotton (Lint),14.4,30.2,36.89,Urea
+17.36,50.93,20.33,Loamy,Garlic,49.28,50.11,25.5,Urea
+27.27,48.58,26.89,Loam,Maize (Fodder),72.74,39.36,33.59,Urea
+17.75,51.05,23.26,Loamy,Coriander,23.29,19.34,17.66,DAP
+30.41,66.96,26.94,Sandy Loam,Arhar/Tur,15.91,23.67,33.58,MOP
+29.36,62.67,24.68,Loamy,Sunflower,78.74,48.82,49.98,MOP
+29.35,40.34,20.54,Clay Loam,Cotton (Lint),81.32,76.82,48.37,Urea
+27.19,49.66,25.73,Sandy Loam,Maize (Grain),97.15,50.94,47.01,Urea
+14.81,50.96,17.7,Sandy Loam,Wheat,67.75,28.56,25.74,Urea
+24.67,65.96,47.88,Loamy,Linseed (Flax),2.84,10.97,38.56,Urea
+28.34,37.57,18.49,Sandy Loam,Jowar,49.76,23.84,24.84,Urea
+18.8,66.38,29.4,Clay Loam,Potato,149.45,75.58,57.68,MOP
+29.1,53.62,19.18,Sandy,Cowpea (Lobia),4.73,19.04,18.39,DAP
+30.46,50.64,20.11,Loam,Jowar,53.62,26.85,25.15,DAP
+29.31,75.38,35.14,Loamy,Sugarcane,213.33,203.12,66.18,SSP
+10.33,43.0,15.39,Sandy Loam,Garlic,41.65,41.1,20.4,15-15-15
+11.64,43.22,15.73,Clay Loam,Wheat,51.34,20.4,20.36,20-10-10
+15.26,51.03,19.35,Clay Loam,Wheat,68.99,29.9,27.05,Urea
+25.37,32.27,36.56,Clay,Masoor (Red Lentil),1.95,12.23,44.65,MOP
+28.6,51.35,19.8,Sandy Loam,Urad (Black Gram),4.1,22.74,23.85,DAP
+21.94,41.57,17.4,Loamy,Sunflower,45.26,34.41,31.56,20-10-10
+34.99,68.42,33.98,Sandy Loam,Maize (Fodder),88.6,47.29,38.64,MOP
+25.3,44.37,15.23,Loamy,Cowpea (Lobia),1.49,15.21,15.68,0-20-20
+14.8,52.73,17.82,Sandy Loam,Barley,38.03,22.97,23.39,Urea
+11.29,47.48,15.68,Loamy,Barley,34.46,21.55,22.11,20-20-20
+24.67,42.43,14.66,Sandy Loam,Ragi (Finger Millet),24.2,19.97,19.25,Urea
+21.66,34.65,11.25,Sandy Loam,Safflower,30.92,20.15,20.72,30-20-20
+36.22,41.72,38.9,Silty Loam,Rice,15.82,20.99,43.07,DAP
+30.64,61.58,20.63,Sandy,Cowpea (Lobia),5.26,20.01,21.36,MOP
+21.28,58.64,21.13,Loamy,Masoor (Red Lentil),5.58,20.37,20.31,MOP
+19.23,67.63,23.35,Sandy Loam,Linseed (Flax),28.59,23.65,33.73,Urea
+12.27,42.98,15.26,Loamy,Onion,80.58,40.43,41.78,15-15-15
+16.01,43.49,15.58,Loamy,Masoor (Red Lentil),1.84,17.04,16.72,0-20-20
+29.87,55.18,24.77,Sandy,Groundnut,16.0,59.83,38.65,Urea
+19.48,50.31,20.86,Sandy Loam,Onion,106.41,53.21,53.75,DAP
+28.68,61.52,30.39,Loam,Maize (Grain),102.95,62.02,51.67,DAP
+17.88,55.37,46.56,Clay,Turmeric,28.28,25.66,23.84,Organic compost
+29.2,88.41,34.0,Sandy Loam,Ginger,148.68,79.36,79.04,Organic compost
+18.09,61.23,20.66,Sandy Loam,Wheat,96.08,34.44,34.24,DAP
+16.3,72.4,27.25,Clay,Arhar/Tur,11.15,25.2,19.38,MOP
+10.69,42.97,16.89,Sandy Loam,Wheat,56.01,20.45,20.41,20-10-10
+32.56,39.58,17.84,Sandy,Bajra,48.62,24.71,23.65,Urea
+17.21,43.42,15.52,Sandy Loam,Urad (Black Gram),5.89,33.11,43.24,Urea
+27.7,53.21,18.56,Loamy,Cowpea (Lobia),4.83,17.95,18.93,DAP
+23.08,44.53,12.64,Red Loam,Ragi (Finger Millet),24.98,19.21,18.72,Urea
+32.37,59.93,20.22,Red Loam,Urad (Black Gram),6.72,26.73,27.37,MOP
+30.54,31.99,17.23,Sandy,Bajra,44.28,21.3,21.78,40-20-20
+15.39,44.56,15.49,Red Loam,Masoor (Red Lentil),1.23,16.44,16.77,0-20-20
+29.84,53.18,19.61,Loamy,Cowpea (Lobia),4.2,19.06,17.78,DAP
+33.12,47.96,23.01,Loam,Cotton (Lint),96.18,95.98,57.79,MOP
+21.36,69.0,30.07,Sand,Cotton (Lint),27.39,19.37,30.23,30-15-15
+23.57,59.51,23.32,Loamy,Garlic,58.86,56.88,29.35,MOP
+31.96,42.1,22.24,Sandy Loam,Cotton (Lint),85.33,86.86,54.46,DAP
+10.29,46.32,16.88,Clay Loam,Wheat,60.42,20.96,20.4,20-10-10
+22.63,54.89,17.53,Clay Loam,Sunflower,53.05,39.32,39.48,Urea
+30.39,57.25,23.77,Loamy,Groundnut,19.17,56.72,38.62,Urea
+29.9,53.49,18.41,Sandy,Cowpea (Lobia),3.19,17.79,18.16,DAP
+27.73,58.6,24.9,Loamy,Gram (Chickpea),16.49,29.36,29.38,Urea
+34.01,66.6,23.84,Loamy,Urad Bean,7.74,28.85,29.47,Urea
+13.11,45.64,18.38,Loamy,Garlic,47.0,47.94,23.98,20-10-20
+27.59,65.81,23.93,Red Loam,Peas & Beans (Pulses),9.16,23.84,24.77,Urea
+31.08,52.31,21.77,Red Clay Loam,Dry Chillies,54.02,55.69,36.95,DAP
+32.9,69.56,22.82,Loamy,Urad (Black Gram),9.14,28.99,29.4,Urea
+21.45,39.92,19.89,Sandy Loam,Maize (Grain),13.33,27.84,27.0,MOP
+24.3,78.18,30.55,Red Loam,Turmeric,124.5,61.45,58.07,DAP
+26.42,60.37,21.84,Loamy,Sunflower,64.0,44.51,41.59,DAP
+18.55,63.28,24.4,Loamy,Linseed (Flax),29.96,24.02,32.83,Urea
+27.24,40.66,17.46,Loamy,Urad Bean,0.96,20.3,20.4,0-20-20
+32.07,60.46,20.67,Sandy Loam,Urad (Black Gram),5.72,26.01,25.45,MOP
+28.28,58.44,30.81,Clay Loam,Maize (Fodder),81.13,42.91,35.16,DAP
+22.12,59.43,24.84,Clay Loam,Onion,118.74,58.63,55.99,MOP
+23.97,62.82,23.68,Clay Loam,Wheat,114.66,39.03,39.17,MOP
+31.0,56.33,24.28,Loamy,Groundnut,19.93,55.13,37.76,Urea
+12.65,45.99,15.41,Loamy,Wheat,60.86,22.84,20.83,20-10-10
+28.17,52.04,19.49,Sandy Loam,Cowpea (Lobia),2.55,18.11,17.61,DAP
+17.39,62.9,26.82,Loamy,Potato,140.05,72.17,53.73,SSP
+12.74,44.94,16.0,Sandy Loam,Wheat,62.41,23.62,23.96,20-10-10
+27.11,50.61,16.82,Sandy Loam,Ragi (Finger Millet),25.16,22.05,21.41,SSP
+22.62,59.6,23.55,Sandy Loam,Garlic,58.09,57.77,28.51,MOP
+27.91,37.07,18.33,Sandy Loam,Cotton (Lint),73.27,75.03,44.05,20-20-20
+31.29,83.71,39.04,Loamy,Sugarcane,240.31,242.49,78.81,MOP
+23.35,47.86,18.43,Loamy,Gram (Chickpea),8.64,23.33,24.51,DAP
+30.75,45.02,21.24,Clay Loam,Jowar,54.75,26.52,26.86,DAP
+17.64,66.67,29.99,Clay Loam,Rapeseed & Mustard,95.64,57.83,49.41,MOP
+27.78,68.65,23.12,Loamy,Peas & Beans (Pulses),8.69,22.74,24.04,Urea
+23.56,68.78,22.66,Red Loam,Masoor (Red Lentil),7.76,24.52,22.56,Urea
+21.74,65.06,23.0,Loamy,Wheat,109.59,39.64,39.81,MOP
+26.32,32.44,15.32,Clay Loam,Cotton (Lint),60.47,61.36,43.13,30-15-15
+29.74,64.17,27.57,Sandy Loam,Arhar/Tur,14.46,24.52,32.1,MOP
+16.08,83.88,21.86,Sandy Loam,Maize (Fodder),21.34,29.81,36.21,25-10-15
+21.75,60.68,25.34,Sandy Loam,Coriander,27.2,21.73,20.94,MOP
+30.74,61.84,22.14,Sandy Loam,Moong (Green Gram),5.38,25.62,26.67,MOP
+28.67,41.58,17.25,Red Loam,Safflower,42.19,25.88,26.01,DAP
+30.38,56.65,22.65,Sandy Loam,Groundnut,16.58,58.93,37.58,Urea
+25.36,35.43,16.77,Clay Loam,Jowar,40.62,20.8,22.42,40-20-20
+23.23,60.92,20.21,Red Loam,Peas & Beans (Pulses),6.81,20.08,20.07,MOP
+31.08,45.1,21.16,Sandy Loam,Jowar,52.43,26.86,27.25,DAP
+31.22,44.59,16.71,Red Loam,Safflower,43.55,26.77,27.33,DAP
+34.53,89.09,39.01,Silty Loam,Rice,143.11,57.75,55.38,MOP
+28.29,51.45,19.01,Red Loam,Urad (Black Gram),3.24,24.94,23.72,DAP
+26.91,53.98,26.18,Sandy Loam,Maize (Grain),96.96,49.18,49.27,Urea
+26.4,62.37,20.98,Clay Loam,Sunflower,62.41,40.16,40.14,DAP
+18.18,57.89,22.48,Clay Loam,Wheat,94.22,30.46,33.89,DAP
+27.61,55.64,18.51,Sandy Loam,Moong (Green Gram),4.85,23.42,24.47,DAP
+26.55,53.99,22.84,Sandy Loam,Arhar/Tur,1.73,16.55,27.97,20-40-20
+28.15,61.99,28.85,Loam,Maize (Grain),102.73,59.96,53.21,DAP
+19.98,53.55,21.73,Clay Loam,Garlic,54.88,55.49,26.29,DAP
+27.74,52.58,18.11,Sandy,Cowpea (Lobia),3.85,19.94,19.25,DAP
+17.12,49.36,17.97,Clay Loam,Onion,92.29,45.21,47.08,Urea
+26.09,46.6,15.07,Loamy,Ragi (Finger Millet),25.22,20.3,21.88,SSP
+32.02,69.83,48.2,Sandy Loam,Safflower,29.09,6.57,42.51,Urea
+29.56,86.4,34.66,Red Loam,Turmeric,149.06,69.22,67.42,Organic compost
+29.87,67.05,29.0,Clay Loam,Arhar/Tur,14.03,24.45,32.3,MOP
+38.28,41.24,31.74,Loamy,Coriander,0.77,30.95,40.58,DAP
+20.82,40.37,16.62,Sandy Loam,Sunflower,44.19,31.25,30.28,20-10-10
+16.83,59.48,21.19,Sandy Loam,Linseed (Flax),27.31,20.44,30.29,MOP
+31.65,57.83,22.49,Sandy,Cowpea (Lobia),6.86,21.4,20.07,MOP
+28.06,58.69,26.66,Sandy Loam,Arhar/Tur,7.33,21.2,28.81,DAP
+17.58,66.61,28.13,Sandy Loam,Rapeseed & Mustard,95.73,56.02,47.27,MOP
+33.47,68.37,32.11,Sandy Loam,Maize (Grain),114.87,64.4,55.13,MOP
+23.3,64.0,29.16,Loamy,Coriander,27.99,23.23,23.99,Urea
+23.83,65.91,28.69,Sandy Loam,Coriander,28.84,23.0,23.21,Urea
+16.6,39.55,28.98,Sand,Gram (Chickpea),29.34,25.75,35.6,0-20-20
+32.09,58.13,20.89,Loamy,Urad Bean,7.2,26.57,26.47,MOP
+31.56,45.47,24.84,Sand,Onion,12.57,10.94,38.01,15-15-15
+31.0,56.09,20.05,Sandy Loam,Urad (Black Gram),6.74,26.52,25.09,MOP
+26.76,34.46,17.16,Sandy Loam,Jowar,40.06,21.82,21.65,40-20-20
+23.4,55.23,20.4,Red Loam,Peas & Beans (Pulses),5.45,21.38,20.52,MOP
+10.83,54.2,21.53,Loamy,Rapeseed & Mustard,60.19,40.76,30.99,30-15-20
+30.57,49.45,19.59,Loamy,Dry Chillies,49.04,50.52,34.66,Urea
+28.08,87.8,33.33,Loamy,Ginger,148.61,76.95,79.75,Organic compost
+21.62,59.06,27.07,Loamy,Coriander,27.4,20.43,21.28,MOP
+20.92,30.03,15.56,Clay,Safflower,21.05,16.65,25.51,MOP
+25.33,35.33,15.2,Loam,Jowar,41.58,21.59,21.03,40-20-20
+23.47,46.99,18.45,Clay Loam,Gram (Chickpea),5.87,24.92,23.04,DAP
+26.29,44.77,16.57,Sandy Loam,Urad (Black Gram),1.03,21.37,21.47,0-20-20
+13.95,53.55,19.67,Sandy Loam,Linseed (Flax),23.92,19.87,28.32,DAP
+23.38,43.49,20.37,Sandy Loam,Maize (Grain),82.48,41.27,40.51,30-10-20
+34.61,63.9,23.68,Sandy Loam,Urad (Black Gram),8.49,29.91,27.74,Urea
+29.35,57.58,29.54,Loam,Maize (Fodder),79.92,42.67,37.2,DAP
+27.57,43.5,19.64,Clay Loam,Jowar,45.52,23.76,24.0,Urea
+23.67,30.43,11.12,Sandy Loam,Safflower,32.77,22.41,20.01,30-20-20
+13.19,56.41,22.55,Sandy Loam,Rapeseed & Mustard,71.34,48.36,36.79,Urea
+26.31,48.1,17.62,Loamy,Groundnut,9.68,46.61,33.88,DAP
+21.39,64.24,31.46,Alluvial,Sugarcane,155.66,157.19,40.03,40-20-20
+15.26,50.73,17.69,Loamy,Barley,36.78,23.56,22.74,Urea
+15.34,41.16,26.7,Clay,Dry Chillies,20.2,9.11,30.5,DAP
+30.37,62.25,20.14,Sandy Loam,Moong (Green Gram),5.03,25.35,25.66,MOP
+24.31,69.01,24.86,Clay Loam,Wheat,106.25,38.07,35.96,MOP
+26.56,51.89,17.35,Red Loam,Ragi (Finger Millet),26.82,21.46,21.48,SSP
+26.66,55.07,20.99,Loamy,Sunflower,66.15,41.85,45.0,DAP
+22.14,41.3,15.28,Sandy Loam,Gram (Chickpea),1.66,20.92,22.46,0-20-20
+26.47,46.15,15.44,Sandy Loam,Urad (Black Gram),0.91,20.63,22.49,0-20-20
+27.76,80.71,37.13,Clay,Peas & Beans (Pulses),3.77,23.97,32.63,MOP
+22.84,42.62,22.33,Sandy Loam,Maize (Fodder),63.21,32.28,31.88,25-10-15
+30.24,31.12,16.19,Sandy,Bajra,42.87,21.89,22.02,40-20-20
+15.12,60.57,21.89,Loamy,Linseed (Flax),26.9,21.47,30.74,MOP
+18.67,65.61,22.67,Loamy,Cowpea (Lobia),28.61,30.18,37.79,0-20-20
+24.81,69.18,33.57,Alluvial,Sugarcane,185.37,177.95,55.84,Urea
+22.66,68.01,28.08,Sandy Loam,Coriander,29.18,23.37,24.08,Urea
+27.74,63.37,24.68,Loamy,Sunflower,79.41,45.39,49.15,MOP
+20.8,32.51,11.13,Sandy Loam,Safflower,31.11,20.17,20.74,30-20-20
+20.94,37.06,10.81,Sandy Loam,Ragi (Finger Millet),20.22,15.29,15.18,20-15-15
+13.54,45.71,15.09,Sandy Loam,Barley,34.77,20.74,22.05,20-20-20
+22.18,41.74,15.65,Clay Loam,Gram (Chickpea),1.62,21.02,21.88,0-20-20
+21.35,85.75,29.45,Clay Loam,Garlic,5.75,25.87,31.26,MOP
+28.96,50.9,19.69,Sandy,Cowpea (Lobia),4.15,19.53,17.88,DAP
+29.12,58.46,30.71,Sandy Loam,Maize (Grain),100.55,58.9,50.91,DAP
+21.63,33.67,12.29,Sandy Loam,Safflower,32.9,21.65,22.35,30-20-20
+11.07,42.28,16.71,Sandy Loam,Wheat,59.62,23.0,21.72,20-10-10
+19.02,59.13,21.09,Loamy,Wheat,89.27,30.94,32.83,DAP
+25.05,32.18,15.63,Sandy Loam,Cotton (Lint),60.47,66.54,43.64,30-15-15
+32.38,51.36,43.22,Clay,Jowar,17.35,30.94,41.72,MOP
+31.94,59.67,12.45,Sand,Moong (Green Gram),6.62,25.52,33.6,0-20-20
+31.59,56.07,22.08,Loamy,Urad Bean,5.44,25.15,26.77,MOP
+23.74,59.28,24.87,Clay Loam,Garlic,56.41,57.33,28.48,MOP
+34.03,38.64,19.23,Sandy Loam,Bajra,45.76,24.4,23.21,Urea
+14.66,58.28,24.75,Sandy Loam,Potato,134.53,66.7,49.75,Urea
+27.77,84.24,32.9,Loamy,Turmeric,134.42,63.81,63.97,MOP
+27.76,57.82,18.27,Sandy Loam,Ragi (Finger Millet),28.39,24.89,24.13,MOP
+21.68,42.6,17.4,Clay Loam,Sunflower,44.36,34.78,33.75,20-10-10
+24.09,43.82,13.02,Sandy Loam,Ragi (Finger Millet),24.4,18.36,17.84,Urea
+32.98,66.27,23.5,Loamy,Moong (Green Gram),8.58,28.69,28.45,Urea
+28.13,86.32,33.99,Loamy,Ginger,146.83,76.01,78.38,Organic compost
+34.64,56.53,23.64,Loamy,Dry Chillies,56.19,56.32,39.43,MOP
+29.8,50.18,20.39,Red Clay Loam,Dry Chillies,50.95,48.22,35.86,Urea
+12.82,58.79,22.73,Sandy Loam,Rapeseed & Mustard,79.7,46.31,36.12,Urea
+25.44,50.39,17.22,Sandy Loam,Ragi (Finger Millet),25.33,20.24,21.69,SSP
+39.32,46.54,22.54,Sandy,Bajra,59.1,28.48,28.5,MOP
+32.81,34.95,48.12,Alluvial,Sugarcane,18.28,15.57,34.83,Urea
+19.87,69.26,22.64,Loamy,Linseed (Flax),29.65,24.05,33.01,Urea
+25.71,43.73,15.06,Red Clay Loam,Dry Chillies,42.03,43.29,30.5,40-30-40
+31.23,67.21,27.53,Loamy,Arhar/Tur,17.25,24.25,34.77,MOP
+10.8,52.76,21.34,Loamy,Rapeseed & Mustard,64.82,43.67,33.2,30-15-20
+21.72,70.14,25.36,Red Loam,Turmeric,102.78,53.68,52.87,100-50-50
+14.41,57.3,23.31,Clay Loam,Rapeseed & Mustard,70.26,48.87,36.83,Urea
+27.82,50.41,20.64,Sandy Loam,Groundnut,14.9,52.13,35.15,MOP
+29.32,50.56,18.1,Loamy,Urad (Black Gram),3.9,22.68,24.68,DAP
+25.2,53.13,22.12,Clay Loam,Arhar/Tur,6.47,16.95,27.13,20-40-20
+38.78,47.07,22.93,Sandy Loam,Bajra,57.88,28.71,29.33,MOP
+24.61,39.71,14.34,Loamy,Safflower,38.75,23.36,24.28,Urea
+27.69,36.66,17.06,Clay Loam,Cotton (Lint),72.87,75.04,44.34,20-20-20
+12.55,43.16,16.68,Loamy,Wheat,57.53,24.87,20.42,20-10-10
+34.33,57.51,26.44,Clay,Urad Bean,4.77,28.66,30.85,MOP
+19.88,52.87,21.81,Sandy Loam,Garlic,52.86,54.43,26.53,DAP
+19.73,64.47,46.19,Clay Loam,Onion,11.64,33.97,29.87,15-15-15
+26.37,69.71,24.53,Loamy,Peas & Beans (Pulses),8.92,24.8,23.18,Urea
+24.42,66.25,29.18,Loamy,Coriander,29.34,23.91,23.68,Urea
+18.23,66.69,29.0,Clay Loam,Potato,148.15,79.7,55.99,MOP
+32.75,85.75,37.6,Black Soil,Sugarcane,249.35,243.72,77.0,MOP
+17.33,63.29,27.28,Sandy Loam,Rapeseed & Mustard,82.88,50.71,40.65,DAP
+21.2,43.17,22.91,Clay Loam,Maize (Grain),87.17,46.16,40.88,30-10-20
+30.26,48.77,19.18,Red Clay Loam,Dry Chillies,48.49,49.86,35.12,Urea
+21.6,65.58,23.0,Clay Loam,Barley,46.22,28.08,28.44,MOP
+28.85,57.75,26.18,Sandy Loam,Arhar/Tur,9.75,19.47,30.31,DAP
+18.82,69.45,29.55,Sandy Loam,Rapeseed & Mustard,93.79,58.98,48.44,MOP
+22.12,56.82,22.79,Sandy Loam,Onion,110.93,58.42,59.62,MOP
+13.65,54.27,21.46,Loamy,Potato,120.31,64.46,41.49,20-20-20
+22.87,45.51,19.58,Clay Loam,Gram (Chickpea),5.44,23.39,24.59,DAP
+15.2,43.06,16.93,Clay Loam,Onion,80.55,42.03,43.74,15-15-15
+20.39,44.27,16.9,Loamy,Sunflower,46.3,33.43,31.98,20-10-10
+26.52,64.17,22.78,Sandy Loam,Peas & Beans (Pulses),8.65,24.59,23.66,Urea
+27.09,47.25,17.34,Sandy Loam,Dry Chillies,45.21,46.29,33.16,60-40-60
+12.52,43.16,15.62,Sandy Loam,Garlic,42.22,42.89,20.63,15-15-15
+25.93,50.85,17.01,Red Loam,Moong (Green Gram),0.34,21.55,21.32,0-20-20
+34.75,86.74,39.49,Alluvial,Rice,147.2,57.06,57.3,MOP
+35.1,43.88,20.44,Sandy,Bajra,53.94,26.72,25.71,DAP
+23.96,43.17,14.16,Red Loam,Ragi (Finger Millet),23.73,18.89,17.77,Urea
+14.2,40.9,15.85,Sandy Loam,Onion,83.71,42.74,43.75,15-15-15
+32.88,68.2,23.97,Loamy,Urad Bean,8.9,27.52,29.97,Urea
+28.67,53.16,20.26,Loamy,Groundnut,14.81,51.86,35.14,MOP
+24.78,55.78,21.64,Sandy Loam,Arhar/Tur,5.7,15.92,25.06,20-40-20
+31.03,68.1,28.1,Loamy,Arhar/Tur,14.04,22.17,31.99,MOP
+20.38,52.35,18.2,Red Loam,Peas & Beans (Pulses),3.52,18.75,19.09,DAP
+23.78,56.8,23.63,Clay Loam,Onion,117.7,56.73,56.6,MOP
+24.93,36.52,12.72,Sandy Loam,Safflower,38.17,24.07,23.95,Urea
+36.84,44.14,21.08,Sandy,Bajra,51.86,25.16,25.51,DAP
+33.97,69.66,31.95,Clay Loam,Maize (Grain),110.08,62.74,59.49,MOP
+34.89,68.1,33.63,Loam,Maize (Fodder),82.93,46.72,39.66,MOP
+24.69,48.02,18.3,Sandy Loam,Sunflower,59.07,39.37,38.32,Urea
+22.19,58.5,21.31,Sandy Loam,Masoor (Red Lentil),7.06,20.73,22.09,MOP
+28.35,54.61,18.82,Sandy Loam,Cowpea (Lobia),4.48,19.67,18.92,DAP
+29.74,52.66,17.59,Sandy Loam,Ragi (Finger Millet),27.98,23.58,23.99,MOP
+33.12,45.5,43.87,Red Loam,Urad (Black Gram),19.03,27.32,21.36,MOP
+28.04,59.13,24.74,Clay Loam,Arhar/Tur,13.11,21.04,28.94,DAP
+20.66,55.56,21.61,Loamy,Garlic,54.17,53.06,27.62,DAP
+31.44,59.27,21.75,Sandy Loam,Urad (Black Gram),6.85,26.18,25.17,MOP
+22.07,66.41,23.81,Loamy,Barley,46.26,29.52,28.12,MOP
+37.17,79.69,30.26,Clay,Ginger,16.77,27.62,30.48,Urea
+33.66,56.93,24.76,Sandy Loam,Dry Chillies,57.73,59.14,39.37,MOP
+31.76,59.16,24.02,Loamy,Groundnut,15.59,55.05,39.33,Urea
+31.3,83.33,29.83,Sandy Loam,Urad Bean,19.28,10.73,30.09,0-20-20
+38.57,72.55,22.88,Sandy Loam,Gram (Chickpea),8.51,5.79,23.61,Urea
+24.59,59.16,23.56,Clay Loam,Garlic,59.25,58.72,28.59,MOP
+29.47,78.42,33.92,Alluvial,Rice,118.7,46.29,49.28,Urea
+31.16,55.84,20.73,Red Loam,Urad (Black Gram),7.41,27.24,27.09,MOP
+27.05,36.23,17.38,Sandy Loam,Jowar,42.37,20.34,20.84,40-20-20
+29.39,77.15,33.91,Silty Loam,Rice,114.98,48.34,49.69,Urea
+17.65,30.57,48.5,Sandy Loam,Maize (Fodder),13.14,27.08,19.19,DAP
+15.39,47.63,18.66,Loamy,Garlic,47.79,47.27,23.65,20-10-20
+24.89,73.15,31.17,Loamy Sand,Bajra,1.7,18.54,44.17,MOP
+22.67,67.76,23.13,Sandy Loam,Masoor (Red Lentil),8.6,25.0,22.69,Urea
+32.19,52.35,20.9,Sandy Loam,Jowar,51.65,26.61,25.8,DAP
+25.41,41.58,16.16,Red Loam,Urad (Black Gram),2.21,21.15,21.74,0-20-20
+34.18,53.94,23.48,Loam,Jowar,59.01,28.43,27.99,MOP
+13.09,46.94,18.55,Loamy,Garlic,46.58,45.03,23.59,20-10-20
+25.52,36.62,13.32,Loamy,Safflower,37.6,23.55,23.14,Urea
+20.34,43.02,20.85,Sandy Loam,Maize (Fodder),64.41,30.38,32.45,25-10-15
+17.72,57.34,21.88,Loamy,Wheat,96.39,32.39,33.72,DAP
+16.18,64.28,26.68,Clay Loam,Potato,135.84,70.22,52.73,SSP
+27.51,78.08,41.22,Clay,Sugarcane,26.13,30.14,19.28,SSP
+26.02,50.09,16.31,Loamy,Moong (Green Gram),2.19,21.49,21.29,0-20-20
+29.81,80.21,49.78,Sandy Loam,Barley,28.48,21.83,41.4,MOP
+33.27,66.41,23.47,Loamy,Urad Bean,7.76,28.32,27.73,Urea
+31.0,61.56,22.04,Loamy,Moong (Green Gram),5.41,27.05,26.85,MOP
+31.2,45.93,22.74,Loam,Cotton (Lint),90.14,88.47,52.19,DAP
+34.35,88.87,39.97,Sandy Loam,Sugarcane,235.12,229.49,72.28,MOP
+31.45,52.41,21.88,Red Clay Loam,Dry Chillies,55.86,53.97,37.33,DAP
+28.88,81.66,35.34,Black Soil,Sugarcane,216.77,201.16,61.45,SSP
+20.93,53.38,21.58,Loamy,Onion,105.65,53.04,52.0,DAP
+30.1,71.68,26.15,Red Loam,Safflower,12.01,10.03,38.19,Urea
+26.37,72.9,31.49,Silty Loam,Rice,108.73,44.19,41.73,40-20-20
+30.92,49.98,20.16,Sandy Loam,Dry Chillies,49.46,48.14,34.23,Urea
+17.18,62.86,26.68,Sandy Loam,Potato,140.32,70.94,53.32,SSP
+19.53,80.63,13.62,Sand,Potato,28.09,16.74,23.08,MOP
+14.01,49.56,17.61,Clay Loam,Wheat,68.05,26.0,25.71,Urea
+31.07,80.16,36.96,Sandy Loam,Sugarcane,204.84,211.83,65.06,SSP
+34.78,35.04,18.72,Loamy Sand,Bajra,49.91,23.93,24.84,Urea
+25.82,30.45,17.18,Clay Loam,Jowar,44.56,20.48,20.59,40-20-20
+27.98,56.92,18.36,Red Loam,Moong (Green Gram),3.11,23.68,24.87,DAP
+11.05,40.42,15.96,Clay Loam,Garlic,43.16,40.4,20.48,15-15-15
+30.75,49.37,20.1,Sandy Loam,Dry Chillies,51.7,51.93,35.85,Urea
+33.92,63.95,34.03,Sandy Loam,Maize (Fodder),86.11,47.45,37.75,MOP
+13.05,47.41,18.79,Loamy,Garlic,45.86,46.7,23.29,20-10-20
+20.96,62.36,27.24,Loamy,Coriander,26.42,21.25,21.44,MOP
+32.58,39.48,17.6,Sandy,Bajra,45.76,24.5,22.7,Urea
+17.6,36.11,46.92,Red Loam,Turmeric,10.82,21.54,36.48,Organic compost
+28.5,44.02,15.53,Loamy,Safflower,41.96,25.58,25.71,DAP
+26.03,84.95,31.24,Red Loam,Ginger,130.34,75.74,74.68,MOP
+28.64,57.59,39.18,Sandy Loam,Garlic,0.07,26.04,17.08,MOP
+22.2,33.53,11.82,Sandy Loam,Safflower,31.28,20.08,20.79,30-20-20
+24.54,57.52,22.66,Loamy,Onion,118.58,55.88,59.66,MOP
+25.21,43.0,16.06,Loamy,Dry Chillies,40.09,42.8,30.23,40-30-40
+18.45,46.3,19.58,Sandy Loam,Onion,90.33,48.32,47.64,Urea
+33.85,65.72,22.74,Red Loam,Urad (Black Gram),9.15,28.6,27.99,Urea
+33.63,68.05,22.61,Loamy,Moong (Green Gram),9.6,29.56,28.22,Urea
+26.79,46.98,16.78,Sandy Loam,Ragi (Finger Millet),25.43,21.06,21.65,SSP
+30.86,78.68,35.1,Alluvial,Sugarcane,201.41,215.73,68.83,SSP
+25.81,32.26,16.53,Sandy Loam,Jowar,42.3,21.72,20.67,40-20-20
+27.96,48.26,17.78,Sandy Loam,Cowpea (Lobia),4.77,18.07,19.1,DAP
+32.42,62.56,20.95,Loamy,Moong (Green Gram),5.32,26.77,26.5,MOP
+29.89,64.52,23.7,Clay Loam,Rice,1.02,32.88,21.01,DAP
+29.39,88.46,42.15,Loam,Cotton (Lint),23.95,13.45,22.07,DAP
+32.53,45.07,22.03,Loam,Cotton (Lint),88.7,89.73,54.94,DAP
+22.17,64.35,32.25,Sandy Loam,Sugarcane,169.2,164.84,49.98,40-20-20
+29.84,38.87,20.49,Loam,Cotton (Lint),76.01,80.72,51.01,Urea
+32.73,40.12,27.11,Clay,Turmeric,3.19,14.02,44.53,MOP
+30.82,65.37,19.92,Loamy,Sugarcane,5.91,31.8,15.62,MOP
+28.71,67.85,24.09,Loamy,Peas & Beans (Pulses),8.53,24.45,22.77,Urea
+29.79,61.94,30.26,Clay Loam,Maize (Fodder),77.01,42.05,36.95,DAP
+25.87,55.15,21.5,Clay Loam,Arhar/Tur,1.69,16.12,26.82,20-40-20
+16.24,47.06,15.3,Sandy Loam,Masoor (Red Lentil),1.19,17.22,17.26,0-20-20
+27.4,82.85,31.92,Sandy Loam,Turmeric,135.58,65.39,62.6,MOP
+34.72,38.68,19.16,Sandy,Bajra,49.3,24.08,23.4,Urea
+29.91,78.44,34.34,Alluvial,Rice,117.81,45.0,47.09,Urea
+19.08,69.72,29.86,Sandy Loam,Potato,144.5,75.54,57.6,MOP
+30.98,32.38,39.05,Red Clay Loam,Dry Chillies,0.86,11.72,36.45,MOP
+24.53,46.96,17.59,Loamy,Gram (Chickpea),5.85,24.35,23.3,DAP
+19.2,48.87,19.17,Loamy,Peas & Beans (Pulses),4.97,18.78,18.61,DAP
+22.05,69.38,30.64,Sand,Turmeric,10.02,25.74,31.73,100-50-50
+18.09,53.53,19.47,Sandy Loam,Masoor (Red Lentil),4.78,18.99,18.87,DAP
+21.45,44.03,23.73,Loam,Maize (Fodder),62.68,33.27,30.0,25-10-15
+28.15,43.41,19.54,Clay Loam,Jowar,46.48,23.99,24.68,Urea
+30.99,49.37,20.97,Loam,Jowar,50.12,26.85,26.01,DAP
