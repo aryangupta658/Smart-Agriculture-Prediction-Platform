@@ -17,10 +17,9 @@ app = FastAPI(
     title="Smart Agriculture Prediction Platform API",
     version="1.0.0",
     description=(
-        "API for crop recommendation, fertilizer "
-        "recommendation, plant disease detection, "
-        "IoT sensor monitoring, NPK estimation "
-        "and historical rainfall analysis."
+        "API for crop recommendation, fertilizer recommendation, "
+        "plant disease detection, IoT sensor monitoring, "
+        "NPK estimation and historical rainfall analysis."
     ),
 )
 
@@ -29,23 +28,19 @@ app = FastAPI(
 # CORS
 # =====================================================
 
-origins = [
-
-    # Local frontend
-    "http://localhost:5173",
-    "http://127.0.0.1:5173",
-
-    # Vercel production frontend
-    "https://smart-agriculture-prediction-platfo.vercel.app",
-]
-
-
 app.add_middleware(
     CORSMiddleware,
 
-    allow_origins=origins,
+    # Local development
+    allow_origins=[
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+    ],
 
-    # You are not using cookie-based authentication here.
+    # Allow Vercel production / preview domains
+    allow_origin_regex=r"https://.*\.vercel\.app",
+
+    # You are not using browser cookies for these APIs.
     allow_credentials=False,
 
     allow_methods=["*"],
@@ -58,29 +53,17 @@ app.add_middleware(
 # ROUTERS
 # =====================================================
 
-app.include_router(
-    crop_router
-)
+app.include_router(crop_router)
 
-app.include_router(
-    fertilizer_router
-)
+app.include_router(fertilizer_router)
 
-app.include_router(
-    disease_router
-)
+app.include_router(disease_router)
 
-app.include_router(
-    iot_router
-)
+app.include_router(iot_router)
 
-app.include_router(
-    npk_router
-)
+app.include_router(npk_router)
 
-app.include_router(
-    weather_router
-)
+app.include_router(weather_router)
 
 
 # =====================================================
@@ -90,8 +73,5 @@ app.include_router(
 @app.get("/")
 def home():
     return {
-        "message": (
-            "Smart Agriculture Prediction "
-            "Platform API is running"
-        )
+        "message": "Smart Agriculture Prediction Platform API is running"
     }
